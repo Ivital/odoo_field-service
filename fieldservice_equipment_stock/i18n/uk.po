@@ -1,0 +1,81 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * fieldservice_equipment_stock
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-30 12:22+0000\n"
+"PO-Revision-Date: 2026-09-30 00:00+0000\n"
+"Last-Translator: \n"
+"Language: uk\n"
+"Language-Team: Ukrainian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#. module: fieldservice_equipment_stock
+msgid "Create Fsm Equipment"
+msgstr "Створити обладнання FSM"
+
+#. module: fieldservice_equipment_stock
+msgid "Creates a FSM Equipment"
+msgstr "Створює обладнання FSM"
+
+#. module: fieldservice_equipment_stock
+msgid ""
+"Creates a Field Service Equipment when a stock move is done. It requires the"
+" 'Create FSM Equipment' option to be enabled on the picking type, too."
+msgstr ""
+"Створює обладнання виїзного обслуговування після складського переміщення. "
+"Параметр 'Створити обладнання FSM' також має бути увімкнений для типу "
+"комплектування."
+
+#. module: fieldservice_equipment_stock
+msgid "Current Inventory Location"
+msgstr "Поточне складське місце"
+
+#. module: fieldservice_equipment_stock
+msgid "Equipment"
+msgstr "Обладнання"
+
+#. module: fieldservice_equipment_stock
+msgid "Field Service Equipment"
+msgstr "Обладнання виїзного обслуговування"
+
+#. module: fieldservice_equipment_stock
+msgid "Inventory"
+msgstr "Запаси"
+
+#. module: fieldservice_equipment_stock
+msgid "Lot/Serial"
+msgstr "Партія/серійний номер"
+
+#. module: fieldservice_equipment_stock
+msgid "Picking Type"
+msgstr "Тип комплектування"
+
+#. module: fieldservice_equipment_stock
+msgid "Product"
+msgstr "Товар"
+
+#. module: fieldservice_equipment_stock
+msgid ""
+"Products with the 'Creates a FSM Equipment' flag will automatically be "
+"converted to an FSM Equipment."
+msgstr ""
+"Товари з прапорцем 'Створює обладнання FSM' автоматично перетворюватимуться "
+"на обладнання FSM."
+
+#. module: fieldservice_equipment_stock
+msgid "Serial #"
+msgstr "Серійний №"
+
+#. module: fieldservice_equipment_stock
+msgid "Stock Move"
+msgstr "Складське переміщення"
+

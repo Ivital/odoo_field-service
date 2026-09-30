@@ -1,0 +1,74 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * fieldservice_repair
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-30 12:22+0000\n"
+"PO-Revision-Date: 2026-09-30 00:00+0000\n"
+"Last-Translator: \n"
+"Language: uk\n"
+"Language-Team: Ukrainian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#. module: fieldservice_repair
+#. odoo-python
+#, python-format
+msgid ""
+"Cannot create the Repair Order because the Equipment '%s' does not have a "
+"Current Inventory Location set."
+msgstr ""
+"Неможливо створити замовлення на ремонт, оскільки для обладнання '%s' не "
+"задано поточне складське місце."
+
+#. module: fieldservice_repair
+#. odoo-python
+msgid "Equipments must be set to create Repair Orders."
+msgstr "Щоб створювати замовлення на ремонт, потрібно вказати обладнання."
+
+#. module: fieldservice_repair
+msgid "Field Service Order"
+msgstr "Замовлення виїзного обслуговування"
+
+#. module: fieldservice_repair
+msgid "Field Service Order Type"
+msgstr "Тип замовлення виїзного обслуговування"
+
+#. module: fieldservice_repair
+msgid "Internal Type"
+msgstr "Внутрішній тип"
+
+#. module: fieldservice_repair
+msgid "Repair"
+msgstr "Ремонт"
+
+#. module: fieldservice_repair
+msgid "Repair Order"
+msgstr "Замовлення на ремонт"
+
+#. module: fieldservice_repair
+#. odoo-python
+msgid "Repair Orders"
+msgstr "Замовлення на ремонт"
+
+#. module: fieldservice_repair
+msgid "Repair Orders Count"
+msgstr "Кількість замовлень на ремонт"
+
+#. module: fieldservice_repair
+#. odoo-python
+msgid "The repair orders will be cancelled."
+msgstr "Замовлення на ремонт буде скасовано."
+
+#. module: fieldservice_repair
+#. odoo-python
+msgid "Warning"
+msgstr "Попередження"
+

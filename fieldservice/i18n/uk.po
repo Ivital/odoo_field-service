@@ -1,0 +1,2706 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * fieldservice
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-30 12:22+0000\n"
+"PO-Revision-Date: 2026-09-30 00:00+0000\n"
+"Last-Translator: \n"
+"Language: uk\n"
+"Language-Team: Ukrainian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#. module: fieldservice
+msgid "# Meetings"
+msgstr "К-сть зустрічей"
+
+#. module: fieldservice
+msgid "# Opportunities"
+msgstr "К-сть можливостей"
+
+#. module: fieldservice
+msgid "# Vendor Bills"
+msgstr "К-сть рахунків постачальника"
+
+#. module: fieldservice
+msgid "# of Owned Locations"
+msgstr "К-сть власних місць"
+
+#. module: fieldservice
+#, python-format
+msgid "'Service Order - %s' % (object.name)"
+msgstr "'Замовлення на обслуговування - %s' % (object.name)"
+
+#. module: fieldservice
+msgid "<span>Reporting</span>"
+msgstr "<span>Звітність</span>"
+
+#. module: fieldservice
+msgid "<span>View</span>"
+msgstr "<span>Переглянути</span>"
+
+#. module: fieldservice
+msgid "<strong>Assigned To:</strong>"
+msgstr "<strong>Призначено:</strong>"
+
+#. module: fieldservice
+msgid "<strong>Date Completed:</strong>"
+msgstr "<strong>Дата завершення:</strong>"
+
+#. module: fieldservice
+msgid "<strong>ETA:</strong>"
+msgstr "<strong>Орієнтовний час прибуття (ETA):</strong>"
+
+#. module: fieldservice
+msgid "<strong>The contact linked to this user is still active</strong>"
+msgstr "<strong>Контакт, пов'язаний із цим користувачем, усе ще активний</strong>"
+
+#. module: fieldservice
+#. odoo-python
+msgid "A Field Service Location related to that partner already exists."
+msgstr "Місце виїзного обслуговування, пов'язане з цим контрагентом, уже існує."
+
+#. module: fieldservice
+#. odoo-python
+msgid "A Field Service Worker related to that partner already exists."
+msgstr "Працівник виїзного обслуговування, пов'язаний із цим контрагентом, уже існує."
+
+#. module: fieldservice
+msgid "Account Payable"
+msgstr "Рахунок кредиторської заборгованості"
+
+#. module: fieldservice
+msgid "Account Receivable"
+msgstr "Рахунок дебіторської заборгованості"
+
+#. module: fieldservice
+msgid "Action Needed"
+msgstr "Потрібна дія"
+
+#. module: fieldservice
+msgid "Active"
+msgstr "Активний"
+
+#. module: fieldservice
+msgid "Active Lang Count"
+msgstr "Кількість активних мов"
+
+#. module: fieldservice
+msgid "Activities"
+msgstr "Дії"
+
+#. module: fieldservice
+msgid "Activity Exception Decoration"
+msgstr "Оформлення виняткової дії"
+
+#. module: fieldservice
+msgid "Activity State"
+msgstr "Стан дії"
+
+#. module: fieldservice
+msgid "Activity Type Icon"
+msgstr "Іконка типу дії"
+
+#. module: fieldservice
+msgid "Actual End"
+msgstr "Фактичне завершення"
+
+#. module: fieldservice
+msgid "Actual Start"
+msgstr "Фактичний початок"
+
+#. module: fieldservice
+msgid "Actual duration"
+msgstr "Фактична тривалість"
+
+#. module: fieldservice
+msgid "Actual duration in hours"
+msgstr "Фактична тривалість у годинах"
+
+#. module: fieldservice
+msgid "Add Field Service Workers here."
+msgstr "Додавайте тут працівників виїзного обслуговування."
+
+#. module: fieldservice
+msgid "Add a Field Service Equipment here."
+msgstr "Додавайте тут обладнання виїзного обслуговування."
+
+#. module: fieldservice
+msgid "Add a Field Service Worker Category here."
+msgstr "Додавайте тут категорії працівників виїзного обслуговування."
+
+#. module: fieldservice
+msgid "Add a description for the order..."
+msgstr "Додати опис замовлення..."
+
+#. module: fieldservice
+msgid "Add a description..."
+msgstr "Додати опис..."
+
+#. module: fieldservice
+msgid "Address"
+msgstr "Адреса"
+
+#. module: fieldservice
+msgid "Address Type"
+msgstr "Тип адреси"
+
+#. module: fieldservice
+msgid "Administrative divisions of a country. E.g. Fed. State, Department, Canton"
+msgstr "Адміністративні одиниці країни. Напр., федеральний штат, департамент, кантон"
+
+#. module: fieldservice
+msgid "Agreements"
+msgstr "Угоди"
+
+#. module: fieldservice
+msgid "Agreements Count"
+msgstr "Кількість угод"
+
+#. module: fieldservice
+msgid "All"
+msgstr "Усі"
+
+#. module: fieldservice
+msgid "All Orders"
+msgstr "Усі замовлення"
+
+#. module: fieldservice
+msgid ""
+"All the emails and documents sent to this contact will be translated in this"
+" language."
+msgstr "Усі листи й документи, надіслані цьому контакту, буде перекладено цією мовою."
+
+#. module: fieldservice
+msgid "Allow Field Service Google Map"
+msgstr "Дозволити Google Map для виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Allow Field Service Google Maps"
+msgstr "Дозволити Google Maps для виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Allow Field Service Web Timeline View"
+msgstr "Дозволити часову шкалу виїзного обслуговування у вебінтерфейсі"
+
+#. module: fieldservice
+msgid "Archived"
+msgstr "Архівовано"
+
+#. module: fieldservice
+msgid "Assigned Location"
+msgstr "Призначене місце"
+
+#. module: fieldservice
+msgid "Assigned Operator"
+msgstr "Призначений оператор"
+
+#. module: fieldservice
+msgid "Assigned To"
+msgstr "Призначено"
+
+#. module: fieldservice
+msgid "Attachment Count"
+msgstr "Кількість вкладень"
+
+#. module: fieldservice
+msgid "Auto-fill the equipments on the order"
+msgstr "Автоматично заповнювати обладнання в замовленні"
+
+#. module: fieldservice
+msgid "Auto-fill the workers on the location"
+msgstr "Автоматично заповнювати працівників для місця"
+
+#. module: fieldservice
+msgid "Auto-populate Equipments on Order based on Location"
+msgstr "Автоматично заповнювати обладнання в замовленні на основі місця"
+
+#. module: fieldservice
+msgid "Auto-populate Workers on Location based on Territory"
+msgstr "Автоматично заповнювати працівників місця на основі території"
+
+#. module: fieldservice
+msgid "Auto-populate equipments on Order based on the Location"
+msgstr "Автоматично заповнювати обладнання в замовленні на основі місця"
+
+#. module: fieldservice
+msgid "Auto-populate the equipments on the order based on the location content"
+msgstr "Автоматично заповнювати обладнання в замовленні на основі вмісту місця"
+
+#. module: fieldservice
+msgid "Auto-populate the preferred workers of a location based on the territory"
+msgstr "Автоматично заповнювати бажаних працівників місця на основі території"
+
+#. module: fieldservice
+msgid "Auto-post bills"
+msgstr "Автоматично проводити рахунки постачальника"
+
+#. module: fieldservice
+msgid "Automatically creates a day route when an order is assigned and scheduled"
+msgstr "Автоматично створює денний маршрут, коли замовлення призначено та заплановано"
+
+#. module: fieldservice
+msgid "Automatically post bills for this trusted partner"
+msgstr "Автоматично проводити рахунки для цього надійного контрагента"
+
+#. module: fieldservice
+msgid ""
+"Automatically send a confirmation email to the vendor X days before the "
+"expected receipt date, asking him to confirm the exact date."
+msgstr ""
+"Автоматично надсилати постачальнику лист-підтвердження за X днів до "
+"очікуваної дати отримання з проханням підтвердити точну дату."
+
+#. module: fieldservice
+msgid "Avatar"
+msgstr "Аватар"
+
+#. module: fieldservice
+msgid "Avatar 1024"
+msgstr "Аватар 1024"
+
+#. module: fieldservice
+msgid "Avatar 128"
+msgstr "Аватар 128"
+
+#. module: fieldservice
+msgid "Avatar 256"
+msgstr "Аватар 256"
+
+#. module: fieldservice
+msgid "Avatar 512"
+msgstr "Аватар 512"
+
+#. module: fieldservice
+msgid "Bank"
+msgstr "Банк"
+
+#. module: fieldservice
+msgid "Banks"
+msgstr "Банки"
+
+#. module: fieldservice
+msgid "Barcode"
+msgstr "Штрихкод"
+
+#. module: fieldservice
+msgid "Blacklist"
+msgstr "Чорний список"
+
+#. module: fieldservice
+msgid "Blacklisted Phone Is Mobile"
+msgstr "Телефон у чорному списку є мобільним"
+
+#. module: fieldservice
+msgid "Blacklisted Phone is Phone"
+msgstr "Телефон у чорному списку є телефоном"
+
+#. module: fieldservice
+msgid "Bounce"
+msgstr "Відхилення"
+
+#. module: fieldservice
+msgid "Branch"
+msgstr "Філія"
+
+#. module: fieldservice
+msgid "Branch Manager"
+msgstr "Керівник філії"
+
+#. module: fieldservice
+msgid "Buyer"
+msgstr "Покупець"
+
+#. module: fieldservice
+msgid "CRM"
+msgstr "CRM"
+
+#. module: fieldservice
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. module: fieldservice
+msgid "Cancel Order"
+msgstr "Скасувати замовлення"
+
+#. module: fieldservice
+msgid "Cancelled"
+msgstr "Скасовано"
+
+#. module: fieldservice
+#. odoo-python
+msgid ""
+"Cannot create FSM Stage because it has the same Type and Sequence of an "
+"existing FSM Stage."
+msgstr ""
+"Неможливо створити етап FSM, оскільки етап із таким самим типом і "
+"послідовністю вже існує."
+
+#. module: fieldservice
+#. odoo-python
+msgid "Cannot move to completed from Kanban"
+msgstr "Неможливо перевести до завершених із Kanban"
+
+#. module: fieldservice
+msgid "Categories"
+msgstr "Категорії"
+
+#. module: fieldservice
+msgid "Category"
+msgstr "Категорія"
+
+#. module: fieldservice
+msgid "Category name already exists!"
+msgstr "Категорія з такою назвою вже існує!"
+
+#. module: fieldservice
+msgid "Change Management"
+msgstr "Керування змінами"
+
+#. module: fieldservice
+msgid "Channels"
+msgstr "Канали"
+
+#. module: fieldservice
+msgid "Check collected payments"
+msgstr "Перевірити отримані платежі"
+
+#. module: fieldservice
+msgid "Check if the contact is a company, otherwise it is a person"
+msgstr "Позначте, якщо контакт є компанією; інакше це фізична особа"
+
+#. module: fieldservice
+msgid "Check inventory"
+msgstr "Перевірити запаси"
+
+#. module: fieldservice
+msgid "Check the amount collected by the worker during the route"
+msgstr "Перевірити суму, отриману працівником під час маршруту"
+
+#. module: fieldservice
+msgid "Check the amount collected during the route"
+msgstr "Перевірити суму платежів, отриманих під час маршруту"
+
+#. module: fieldservice
+msgid "Check the inventory of the vehicle at the end of the route"
+msgstr "Перевірити запаси транспортного засобу наприкінці маршруту"
+
+#. module: fieldservice
+msgid "Check this box if this contact is an Employee."
+msgstr "Позначте, якщо цей контакт є співробітником."
+
+#. module: fieldservice
+msgid "Children"
+msgstr "Дочірні записи"
+
+#. module: fieldservice
+msgid "Children Locations"
+msgstr "Дочірні місця"
+
+#. module: fieldservice
+msgid "Choose a team to be set on orders of this template"
+msgstr "Виберіть команду, яку буде встановлено в замовленнях цього шаблону"
+
+#. module: fieldservice
+msgid "City"
+msgstr "Місто"
+
+#. module: fieldservice
+msgid "Classify and analyze your orders"
+msgstr "Класифікуйте та аналізуйте свої замовлення"
+
+#. module: fieldservice
+msgid "Color Code"
+msgstr "Код кольору"
+
+#. module: fieldservice
+msgid "Color Index"
+msgstr "Індекс кольору"
+
+#. module: fieldservice
+#. odoo-python
+msgid "Color code should be Hex Code. Ex:-#FFFFFF"
+msgstr "Код кольору має бути HEX-кодом, напр. #FFFFFF"
+
+#. module: fieldservice
+msgid "Commercial Entity"
+msgstr "Комерційна організація"
+
+#. module: fieldservice
+msgid "Companies"
+msgstr "Компанії"
+
+#. module: fieldservice
+msgid "Companies that refers to partner"
+msgstr "Компанії, що посилаються на контрагента"
+
+#. module: fieldservice
+msgid "Company"
+msgstr "Компанія"
+
+#. module: fieldservice
+msgid "Company ID"
+msgstr "ID компанії"
+
+#. module: fieldservice
+msgid "Company ID Label"
+msgstr "Мітка ID компанії"
+
+#. module: fieldservice
+msgid "Company Name"
+msgstr "Назва компанії"
+
+#. module: fieldservice
+msgid "Company Name Entity"
+msgstr "Назва юридичної особи"
+
+#. module: fieldservice
+msgid "Company Type"
+msgstr "Тип компанії"
+
+#. module: fieldservice
+msgid "Company related to this category"
+msgstr "Компанія, пов'язана з цією категорією"
+
+#. module: fieldservice
+msgid "Company related to this equipment"
+msgstr "Компанія, пов'язана з цим обладнанням"
+
+#. module: fieldservice
+msgid "Company related to this order"
+msgstr "Компанія, пов'язана з цим замовленням"
+
+#. module: fieldservice
+msgid "Company related to this tag"
+msgstr "Компанія, пов'язана з цією міткою"
+
+#. module: fieldservice
+msgid "Company related to this team"
+msgstr "Компанія, пов'язана з цією командою"
+
+#. module: fieldservice
+msgid "Company related to this template"
+msgstr "Компанія, пов'язана з цим шаблоном"
+
+#. module: fieldservice
+msgid "Complete"
+msgstr "Завершено"
+
+#. module: fieldservice
+msgid "Complete Address"
+msgstr "Повна адреса"
+
+#. module: fieldservice
+msgid "Complete Direction"
+msgstr "Повний напрямок"
+
+#. module: fieldservice
+msgid "Complete Name"
+msgstr "Повна назва"
+
+#. module: fieldservice
+msgid "Completed"
+msgstr "Завершено"
+
+#. module: fieldservice
+msgid "Compute Localization"
+msgstr "Обчислити геолокацію"
+
+#. module: fieldservice
+msgid "Compute based on address"
+msgstr "Обчислювати на основі адреси"
+
+#. module: fieldservice
+msgid "Config Settings"
+msgstr "Налаштування конфігурації"
+
+#. module: fieldservice
+msgid "Configuration"
+msgstr "Конфігурація"
+
+#. module: fieldservice
+msgid "Contact"
+msgstr "Контакт"
+
+#. module: fieldservice
+msgid "Contacts"
+msgstr "Контакти"
+
+#. module: fieldservice
+msgid "Contacts Count"
+msgstr "Кількість контактів"
+
+#. module: fieldservice
+msgid "Convert"
+msgstr "Перетворити"
+
+#. module: fieldservice
+msgid "Convert to FSM Record"
+msgstr "Перетворити на запис FSM"
+
+#. module: fieldservice
+msgid "Convert to a Field Service Worker or Location"
+msgstr "Перетворити на працівника або місце виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Counter of the number of bounced emails for this contact"
+msgstr "Лічильник кількості недоставлених листів для цього контакту"
+
+#. module: fieldservice
+msgid "Country"
+msgstr "Країна"
+
+#. module: fieldservice
+msgid "Country Code"
+msgstr "Код країни"
+
+#. module: fieldservice
+msgid "Create FSM Orders from Opportunities"
+msgstr "Створювати замовлення FSM із можливостей"
+
+#. module: fieldservice
+msgid "Create a Customer."
+msgstr "Створити клієнта."
+
+#. module: fieldservice
+msgid "Create a Service Location"
+msgstr "Створити місце обслуговування"
+
+#. module: fieldservice
+msgid "Create a Stage."
+msgstr "Створити етап."
+
+#. module: fieldservice
+msgid "Create a new team"
+msgstr "Створити нову команду"
+
+#. module: fieldservice
+msgid "Create a tag."
+msgstr "Створити мітку."
+
+#. module: fieldservice
+msgid "Create an Order."
+msgstr "Створити замовлення."
+
+#. module: fieldservice
+msgid "Create an order template"
+msgstr "Створити шаблон замовлення"
+
+#. module: fieldservice
+msgid "Create multiple FSM Locations at once using Location Builder Wizard"
+msgstr "Створювати кілька місць FSM одночасно за допомогою майстра конструктора місць"
+
+#. module: fieldservice
+msgid "Create the linked locations of a worker."
+msgstr "Створити пов'язані місця працівника."
+
+#. module: fieldservice
+msgid "Create vendor bills and customer invoices when completing service orders."
+msgstr ""
+"Створювати рахунки постачальників і рахунки клієнтів після завершення "
+"замовлень на обслуговування."
+
+#. module: fieldservice
+msgid "Created by"
+msgstr "Створив"
+
+#. module: fieldservice
+msgid "Created on"
+msgstr "Дата створення"
+
+#. module: fieldservice
+msgid "Credit Limit"
+msgstr "Кредитний ліміт"
+
+#. module: fieldservice
+msgid "Credit To Invoice"
+msgstr "Кредит до виставлення рахунку"
+
+#. module: fieldservice
+msgid "Credit limit specific to this partner."
+msgstr "Кредитний ліміт, установлений для цього контрагента."
+
+#. module: fieldservice
+msgid "Currency"
+msgstr "Валюта"
+
+#. module: fieldservice
+msgid "Current Date"
+msgstr "Поточна дата"
+
+#. module: fieldservice
+msgid "Current Location"
+msgstr "Поточне місце"
+
+#. module: fieldservice
+msgid "Customer Location"
+msgstr "Місце клієнта"
+
+#. module: fieldservice
+msgid "Customer Payment Terms"
+msgstr "Умови оплати клієнта"
+
+#. module: fieldservice
+msgid "Customer Rank"
+msgstr "Рейтинг клієнта"
+
+#. module: fieldservice
+msgid "Customer Signature"
+msgstr "Підпис клієнта"
+
+#. module: fieldservice
+msgid "Customers"
+msgstr "Клієнти"
+
+#. module: fieldservice
+msgid "Dashboard"
+msgstr "Панель керування"
+
+#. module: fieldservice
+msgid "Days Before Receipt"
+msgstr "Днів до отримання"
+
+#. module: fieldservice
+msgid "Days Sales Outstanding (DSO)"
+msgstr "Середній строк погашення дебіторської заборгованості (DSO)"
+
+#. module: fieldservice
+msgid "Default Team"
+msgstr "Команда за замовчуванням"
+
+#. module: fieldservice
+msgid "Default duration in hours"
+msgstr "Тривалість за замовчуванням у годинах"
+
+#. module: fieldservice
+msgid "Default team assigned to orders in this location"
+msgstr "Команда за замовчуванням для замовлень у цьому місці"
+
+#. module: fieldservice
+msgid "Degree of trust you have in this debtor"
+msgstr "Рівень довіри до цього боржника"
+
+#. module: fieldservice
+msgid "Deprecated Parent"
+msgstr "Застарілий батьківський запис"
+
+#. module: fieldservice
+msgid "Description"
+msgstr "Опис"
+
+#. module: fieldservice
+msgid "Direction"
+msgstr "Напрямок"
+
+#. module: fieldservice
+msgid "Directions"
+msgstr "Напрямки"
+
+#. module: fieldservice
+msgid "Dispatcher"
+msgstr "Диспетчер"
+
+#. module: fieldservice
+msgid "Display Invoice Edi Format"
+msgstr "Відображати формат EDI рахунку"
+
+#. module: fieldservice
+msgid "Display Invoice Template Pdf Report"
+msgstr "Відображати PDF-звіт шаблону рахунку"
+
+#. module: fieldservice
+msgid "Display Name"
+msgstr "Назва для відображення"
+
+#. module: fieldservice
+msgid "Display locations and orders on a map with Google Maps"
+msgstr "Відображати місця й замовлення на карті Google Maps"
+
+#. module: fieldservice
+msgid "Display locations and orders on a map with OpenStreetMap"
+msgstr "Відображати місця й замовлення на карті OpenStreetMap"
+
+#. module: fieldservice
+msgid "District"
+msgstr "Район"
+
+#. module: fieldservice
+msgid "District Manager"
+msgstr "Керівник району"
+
+#. module: fieldservice
+msgid "Done"
+msgstr "Виконано"
+
+#. module: fieldservice
+msgid "Due Within 30 Days"
+msgstr "Термін протягом 30 днів"
+
+#. module: fieldservice
+msgid "Due Within 7 Days"
+msgstr "Термін протягом 7 днів"
+
+#. module: fieldservice
+msgid "Duplicate Bank Partner"
+msgstr "Дублікат банківського контрагента"
+
+#. module: fieldservice
+msgid "Duplicated Bank Account Partners Count"
+msgstr "Кількість контрагентів із дубльованими банківськими рахунками"
+
+#. module: fieldservice
+msgid "Duration"
+msgstr "Тривалість"
+
+#. module: fieldservice
+msgid "Earliest Request Date"
+msgstr "Дата найранішого запиту"
+
+#. module: fieldservice
+msgid "Edit"
+msgstr "Редагувати"
+
+#. module: fieldservice
+msgid ""
+"Either customer (not a user), either shared user. Indicated the current "
+"partner is a customer without access or with a limited access created for "
+"sharing data."
+msgstr ""
+"Або клієнт (не користувач), або спільний користувач. Указує, що поточний "
+"контрагент є клієнтом без доступу або з обмеженим доступом для спільного "
+"використання даних."
+
+#. module: fieldservice
+msgid "Email"
+msgstr "Ел. пошта"
+
+#. module: fieldservice
+msgid "Employee"
+msgstr "Співробітник"
+
+#. module: fieldservice
+msgid "Employees"
+msgstr "Співробітники"
+
+#. module: fieldservice
+msgid "Employees Count"
+msgstr "Кількість співробітників"
+
+#. module: fieldservice
+msgid "Enter the resolution for the order..."
+msgstr "Введіть рішення за замовленням..."
+
+#. module: fieldservice
+msgid "Equipment"
+msgstr "Обладнання"
+
+#. module: fieldservice
+msgid "Equipment name already exists!"
+msgstr "Обладнання з такою назвою вже існує!"
+
+#. module: fieldservice
+msgid "Equipment-1"
+msgstr "Обладнання-1"
+
+#. module: fieldservice
+msgid "Equipment-2"
+msgstr "Обладнання-2"
+
+#. module: fieldservice
+msgid "Equipment-3"
+msgstr "Обладнання-3"
+
+#. module: fieldservice
+msgid "Equipments"
+msgstr "Обладнання"
+
+#. module: fieldservice
+msgid "Equipments Report"
+msgstr "Звіт про обладнання"
+
+#. module: fieldservice
+msgid "Execution"
+msgstr "Виконання"
+
+#. module: fieldservice
+msgid ""
+"Explanation text to help users using the star and priority mechanism on "
+"stages or orders that are in this stage."
+msgstr ""
+"Пояснювальний текст, що допомагає користувачам працювати із зірочкою та "
+"механізмом пріоритету на етапах або замовленнях цього етапу."
+
+#. module: fieldservice
+msgid "FS Order #"
+msgstr "№ замовлення виїзного обслуговування"
+
+#. module: fieldservice
+msgid "FSM"
+msgstr "FSM"
+
+#. module: fieldservice
+msgid "FSM Equipment Name"
+msgstr "Назва обладнання FSM"
+
+#. module: fieldservice
+msgid "FSM Location Builder"
+msgstr "Конструктор місця FSM"
+
+#. module: fieldservice
+msgid "FSM Locations"
+msgstr "Місця виїзного обслуговування"
+
+#. module: fieldservice
+msgid "FSM Order Name"
+msgstr "Назва замовлення FSM"
+
+#. module: fieldservice
+msgid "FSM Order Sign Wizard"
+msgstr "Майстер підписання замовлення FSM"
+
+#. module: fieldservice
+msgid "FSM Orders"
+msgstr "Замовлення виїзного обслуговування"
+
+#. module: fieldservice
+msgid "FSM Person Calendar Filter"
+msgstr "Фільтр календаря працівника FSM"
+
+#. module: fieldservice
+msgid "FSM Record Conversion"
+msgstr "Перетворення запису виїзного обслуговування"
+
+#. module: fieldservice
+msgid "FSM Worker"
+msgstr "Працівник виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service"
+msgstr "Виїзне обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Category"
+msgstr "Категорія виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Equipment"
+msgstr "Обладнання виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Location"
+msgstr "Місце виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Location Person Info"
+msgstr "Інформація про особу місця виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Order"
+msgstr "Замовлення виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Order Template"
+msgstr "Шаблон замовлення виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Order Type"
+msgstr "Тип замовлення виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Stage"
+msgstr "Етап виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Tag"
+msgstr "Мітка виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Team"
+msgstr "Команда виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Worker"
+msgstr "Працівник виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Worker Category"
+msgstr "Категорія працівника виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Field Service Workers"
+msgstr "Працівники виїзного обслуговування"
+
+#. module: fieldservice
+msgid ""
+"Field used to store sanitized phone number. Helps speeding up searches and "
+"comparisons."
+msgstr ""
+"Поле для зберігання очищеного номера телефону. Допомагає пришвидшити пошук і"
+" порівняння."
+
+#. module: fieldservice
+msgid "Fiscal Country Codes"
+msgstr "Фіскальні коди країн"
+
+#. module: fieldservice
+msgid "Fiscal Position"
+msgstr "Фіскальна позиція"
+
+#. module: fieldservice
+msgid "Folded in Kanban"
+msgstr "Згорнуто в Kanban"
+
+#. module: fieldservice
+msgid "Followers"
+msgstr "Підписники"
+
+#. module: fieldservice
+msgid "Followers (Partners)"
+msgstr "Підписники (контрагенти)"
+
+#. module: fieldservice
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr "Іконка Font Awesome, напр. fa-tasks"
+
+#. module: fieldservice
+msgid "Format email address \"Name <email@domain>\""
+msgstr "Формат ел. адреси: \"Ім'я <email@domain>\""
+
+#. module: fieldservice
+msgid "Formatted Email"
+msgstr "Форматована ел. адреса"
+
+#. module: fieldservice
+msgid "Fsm Model Mixin"
+msgstr "Домішка моделі FSM"
+
+#. module: fieldservice
+msgid "Full Name"
+msgstr "Повне ім'я"
+
+#. module: fieldservice
+msgid "Future Orders"
+msgstr "Майбутні замовлення"
+
+#. module: fieldservice
+msgid "General Notes"
+msgstr "Загальні примітки"
+
+#. module: fieldservice
+msgid "Geo Latitude"
+msgstr "Географічна широта"
+
+#. module: fieldservice
+msgid "Geo Location"
+msgstr "Географічне місце"
+
+#. module: fieldservice
+msgid "Geo Longitude"
+msgstr "Географічна довгота"
+
+#. module: fieldservice
+msgid "Geolocation"
+msgstr "Геолокація"
+
+#. module: fieldservice
+msgid "Geolocation Date"
+msgstr "Дата геолокації"
+
+#. module: fieldservice
+msgid "Group By"
+msgstr "Групувати за"
+
+#. module: fieldservice
+msgid "Has Message"
+msgstr "Має повідомлення"
+
+#. module: fieldservice
+msgid "Hide"
+msgstr "Приховати"
+
+#. module: fieldservice
+msgid "High"
+msgstr "Високий"
+
+#. module: fieldservice
+msgid "Hours of Buffer for High Priority FS Orders"
+msgstr "Буфер годин для замовлень виїзного обслуговування з високим пріоритетом"
+
+#. module: fieldservice
+msgid "Hours of Buffer for Low Priority FS Orders"
+msgstr "Буфер годин для замовлень виїзного обслуговування з низьким пріоритетом"
+
+#. module: fieldservice
+msgid "Hours of Buffer for Lowest Priority FS Orders"
+msgstr "Буфер годин для замовлень виїзного обслуговування з найнижчим пріоритетом"
+
+#. module: fieldservice
+msgid "Hours of Buffer for Medium Priority FS Orders"
+msgstr "Буфер годин для замовлень виїзного обслуговування із середнім пріоритетом"
+
+#. module: fieldservice
+msgid "ID"
+msgstr "ID"
+
+#. module: fieldservice
+msgid "IM Status"
+msgstr "Статус обміну повідомленнями"
+
+#. module: fieldservice
+msgid "Icon"
+msgstr "Іконка"
+
+#. module: fieldservice
+msgid "Icon to indicate an exception activity."
+msgstr "Іконка для позначення виняткової дії."
+
+#. module: fieldservice
+msgid "If checked, new messages require your attention."
+msgstr "Якщо позначено, нові повідомлення потребують вашої уваги."
+
+#. module: fieldservice
+msgid "If checked, some messages have a delivery error."
+msgstr "Якщо позначено, деякі повідомлення мають помилку доставки."
+
+#. module: fieldservice
+msgid ""
+"If the email address is on the blacklist, the contact won't receive mass "
+"mailing anymore, from any list"
+msgstr ""
+"Якщо ел. адреса в чорному списку, контакт більше не отримуватиме масових "
+"розсилок із жодного списку"
+
+#. module: fieldservice
+msgid ""
+"If the sanitized phone number is on the blacklist, the contact won't receive"
+" mass mailing sms anymore, from any list"
+msgstr ""
+"Якщо очищений номер телефону в чорному списку, контакт більше не "
+"отримуватиме масових SMS-розсилок із жодного списку"
+
+#. module: fieldservice
+msgid "Ignore Abnormal Invoice Amount"
+msgstr "Ігнорувати аномальну суму рахунку"
+
+#. module: fieldservice
+msgid "Ignore Abnormal Invoice Date"
+msgstr "Ігнорувати аномальну дату рахунку"
+
+#. module: fieldservice
+msgid "Image"
+msgstr "Зображення"
+
+#. module: fieldservice
+msgid "Image 1024"
+msgstr "Зображення 1024"
+
+#. module: fieldservice
+msgid "Image 128"
+msgstr "Зображення 128"
+
+#. module: fieldservice
+msgid "Image 256"
+msgstr "Зображення 256"
+
+#. module: fieldservice
+msgid "Image 512"
+msgstr "Зображення 512"
+
+#. module: fieldservice
+msgid ""
+"Indicates if a blacklisted sanitized phone number is a mobile number. Helps "
+"distinguish which number is blacklisted             when there is both a "
+"mobile and phone field in a model."
+msgstr ""
+"Указує, чи очищений номер телефону з чорного списку є мобільним. Допомагає "
+"визначити, який саме номер у чорному списку, коли модель має і мобільний, і "
+"звичайний телефон."
+
+#. module: fieldservice
+msgid ""
+"Indicates if a blacklisted sanitized phone number is a phone number. Helps "
+"distinguish which number is blacklisted             when there is both a "
+"mobile and phone field in a model."
+msgstr ""
+"Указує, чи очищений номер телефону з чорного списку є стаціонарним. "
+"Допомагає визначити, який саме номер у чорному списку, коли модель має і "
+"мобільний, і звичайний телефон."
+
+#. module: fieldservice
+msgid "Industry"
+msgstr "Галузь"
+
+#. module: fieldservice
+msgid "Inlined Complete Address"
+msgstr "Вбудована повна адреса"
+
+#. module: fieldservice
+msgid "Instructions"
+msgstr "Інструкції"
+
+#. module: fieldservice
+msgid "Internal Type"
+msgstr "Внутрішній тип"
+
+#. module: fieldservice
+msgid "Invoice"
+msgstr "Рахунок"
+
+#. module: fieldservice
+msgid "Invoice Edi Format Store"
+msgstr "Сховище формату EDI рахунку"
+
+#. module: fieldservice
+msgid "Invoice sending"
+msgstr "Надсилання рахунку"
+
+#. module: fieldservice
+msgid "Invoice template"
+msgstr "Шаблон рахунку"
+
+#. module: fieldservice
+msgid "Invoice your FSM orders"
+msgstr "Виставляйте рахунки за замовлення FSM"
+
+#. module: fieldservice
+msgid "Invoice your Service Orders"
+msgstr "Виставляйте рахунки за замовлення на обслуговування"
+
+#. module: fieldservice
+msgid "Invoices"
+msgstr "Рахунки"
+
+#. module: fieldservice
+msgid "Is Coa Installed"
+msgstr "План рахунків встановлено"
+
+#. module: fieldservice
+msgid "Is Follower"
+msgstr "Є підписником"
+
+#. module: fieldservice
+msgid "Is Public"
+msgstr "Публічний"
+
+#. module: fieldservice
+msgid "Is a Company"
+msgstr "Є компанією"
+
+#. module: fieldservice
+msgid "Is a FS Location"
+msgstr "Є місцем виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Is a FS Worker"
+msgstr "Є працівником виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Is a close stage"
+msgstr "Є етапом закриття"
+
+#. module: fieldservice
+msgid "Is a default stage"
+msgstr "Є етапом за замовчуванням"
+
+#. module: fieldservice
+msgid "Is closed"
+msgstr "Закрито"
+
+#. module: fieldservice
+msgid "Job Position"
+msgstr "Посада"
+
+#. module: fieldservice
+msgid "Journal Items"
+msgstr "Позиції журналу"
+
+#. module: fieldservice
+msgid "Language"
+msgstr "Мова"
+
+#. module: fieldservice
+msgid "Last Updated by"
+msgstr "Востаннє оновив"
+
+#. module: fieldservice
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: fieldservice
+msgid "Last notification marked as read from base Calendar"
+msgstr "Останнє сповіщення з базового календаря, позначене як прочитане"
+
+#. module: fieldservice
+msgid "Lat:"
+msgstr "Широта:"
+
+#. module: fieldservice
+msgid "Latest Request Date"
+msgstr "Дата останнього запиту"
+
+#. module: fieldservice
+msgid "Link FSM orders to MRP Repair orders"
+msgstr "Пов'язувати замовлення FSM із замовленнями ремонту MRP"
+
+#. module: fieldservice
+msgid "Link FSM orders to maintenance requests"
+msgstr "Пов'язувати замовлення FSM із заявками на технічне обслуговування"
+
+#. module: fieldservice
+msgid "Link FSM vehicles to Fleet vehicles"
+msgstr "Пов'язувати транспорт FSM із транспортом автопарку"
+
+#. module: fieldservice
+msgid "Link Field Service vehicles with Fleet vehicles"
+msgstr "Пов'язувати транспорт виїзного обслуговування з транспортом автопарку"
+
+#. module: fieldservice
+msgid "Link to Fleet Vehicles"
+msgstr "Посилання на транспортні засоби автопарку"
+
+#. module: fieldservice
+msgid "Link your FSM orders to MRP repair orders"
+msgstr "Пов'язуйте замовлення FSM із замовленнями ремонту MRP"
+
+#. module: fieldservice
+msgid "Link your FSM orders to Projects and Project Tasks"
+msgstr "Пов'язуйте замовлення FSM із проєктами та завданнями проєктів"
+
+#. module: fieldservice
+msgid "Link your FSM orders to maintenance requests"
+msgstr "Пов'язуйте замовлення FSM із заявками на технічне обслуговування"
+
+#. module: fieldservice
+msgid "Linked Locations"
+msgstr "Пов'язані місця"
+
+#. module: fieldservice
+msgid "Location"
+msgstr "Місце"
+
+#. module: fieldservice
+msgid "Location Directions"
+msgstr "Вказівки до місця"
+
+#. module: fieldservice
+msgid "Location Notes"
+msgstr "Примітки до місця"
+
+#. module: fieldservice
+msgid "Location Persons"
+msgstr "Особи місця"
+
+#. module: fieldservice
+msgid "Location Phone"
+msgstr "Телефон місця"
+
+#. module: fieldservice
+msgid "Location Reports."
+msgstr "Звіти місць."
+
+#. module: fieldservice
+msgid "Location Worker"
+msgstr "Працівник місця"
+
+#. module: fieldservice
+msgid "Location Workers"
+msgstr "Працівники місця"
+
+#. module: fieldservice
+msgid "Location-1"
+msgstr "Місце-1"
+
+#. module: fieldservice
+msgid "Location-2"
+msgstr "Місце-2"
+
+#. module: fieldservice
+msgid "Location-3"
+msgstr "Місце-3"
+
+#. module: fieldservice
+msgid "Locations"
+msgstr "Місця"
+
+#. module: fieldservice
+msgid "Long:"
+msgstr "Довгота:"
+
+#. module: fieldservice
+msgid "Low"
+msgstr "Низький"
+
+#. module: fieldservice
+msgid "MRP Repair"
+msgstr "Ремонт MRP"
+
+#. module: fieldservice
+msgid "Make sure to send the right worker with the appropriate skills"
+msgstr "Переконайтеся, що призначили потрібного працівника з відповідними навичками"
+
+#. module: fieldservice
+msgid "Manage Agreements"
+msgstr "Керування угодами"
+
+#. module: fieldservice
+msgid "Manage Categories"
+msgstr "Керування категоріями"
+
+#. module: fieldservice
+msgid "Manage Distribution"
+msgstr "Керування розподілом"
+
+#. module: fieldservice
+msgid "Manage Equipment"
+msgstr "Керування обладнанням"
+
+#. module: fieldservice
+msgid "Manage Equipments"
+msgstr "Керування обладнанням"
+
+#. module: fieldservice
+msgid "Manage FSM Activities"
+msgstr "Керування діями FSM"
+
+#. module: fieldservice
+msgid "Manage Field Service Equipment"
+msgstr "Керування обладнанням виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Manage Field Service Order Templates"
+msgstr "Керування шаблонами замовлень виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Manage Field Service Tags"
+msgstr "Керування мітками виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Manage Field Service Teams"
+msgstr "Керування командами виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Manage Field Service Worker Categories"
+msgstr "Керування категоріями працівників виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Manage Inventory Logistics"
+msgstr "Керування складською логістикою"
+
+#. module: fieldservice
+msgid "Manage Maintenance Requests"
+msgstr "Керування заявками на технічне обслуговування"
+
+#. module: fieldservice
+msgid "Manage Order Activities"
+msgstr "Керування діями замовлення"
+
+#. module: fieldservice
+msgid "Manage Order Sizes"
+msgstr "Керування розмірами замовлень"
+
+#. module: fieldservice
+msgid "Manage Order Sub-Statuses"
+msgstr "Керування підстатусами замовлень"
+
+#. module: fieldservice
+msgid "Manage Order Templates"
+msgstr "Керування шаблонами замовлень"
+
+#. module: fieldservice
+msgid "Manage Recurring Orders"
+msgstr "Керування повторюваними замовленнями"
+
+#. module: fieldservice
+msgid "Manage Skills"
+msgstr "Керування навичками"
+
+#. module: fieldservice
+msgid "Manage Sub-Statuses"
+msgstr "Керування підстатусами"
+
+#. module: fieldservice
+msgid "Manage Tags"
+msgstr "Керування мітками"
+
+#. module: fieldservice
+msgid "Manage Teams"
+msgstr "Керування командами"
+
+#. module: fieldservice
+msgid "Manage Template"
+msgstr "Керування шаблоном"
+
+#. module: fieldservice
+msgid "Manage Territories"
+msgstr "Керування територіями"
+
+#. module: fieldservice
+msgid "Manage Territory"
+msgstr "Керування територією"
+
+#. module: fieldservice
+msgid "Manage Vehicles"
+msgstr "Керування транспортними засобами"
+
+#. module: fieldservice
+msgid "Manage activities"
+msgstr "Керування діями"
+
+#. module: fieldservice
+msgid "Manage agreements and contracts"
+msgstr "Керування угодами та договорами"
+
+#. module: fieldservice
+msgid "Manage different categories of Field Service workers"
+msgstr "Керування різними категоріями працівників виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Manage different teams of Field Service workers"
+msgstr "Керування різними командами працівників виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Manage equipments at the service location"
+msgstr "Керування обладнанням у місці обслуговування"
+
+#. module: fieldservice
+msgid ""
+"Manage materials and stock operations. Automatically activate Lots & Serial "
+"Numbers."
+msgstr ""
+"Керування матеріалами та складськими операціями. Автоматично активує партії "
+"й серійні номери."
+
+#. module: fieldservice
+msgid "Manage recurrence of field service orders"
+msgstr "Керування повторенням замовлень виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Manage routes"
+msgstr "Керування маршрутами"
+
+#. module: fieldservice
+msgid "Manage routes of your workers"
+msgstr "Керування маршрутами ваших працівників"
+
+#. module: fieldservice
+msgid "Manage sizes for orders and locations"
+msgstr "Керування розмірами замовлень і місць"
+
+#. module: fieldservice
+msgid "Manage sub-status of orders"
+msgstr "Керування підстатусами замовлень"
+
+#. module: fieldservice
+msgid "Manage subcontractors and their pricelists"
+msgstr "Керування субпідрядниками та їхніми прайс-листами"
+
+#. module: fieldservice
+msgid "Manage subcontractors with pricelists"
+msgstr "Керування субпідрядниками з прайс-листами"
+
+#. module: fieldservice
+msgid "Manage tags on service orders"
+msgstr "Керування мітками замовлень на обслуговування"
+
+#. module: fieldservice
+msgid "Manage templates"
+msgstr "Керування шаблонами"
+
+#. module: fieldservice
+msgid "Manage territories, branches, districts and regions"
+msgstr "Керування територіями, філіями, районами та регіонами"
+
+#. module: fieldservice
+msgid "Manage vehicles for Field Service operations"
+msgstr "Керування транспортними засобами для виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Manage your distribution structure"
+msgstr "Керування структурою розподілу"
+
+#. module: fieldservice
+msgid "Managed By"
+msgstr "Керується"
+
+#. module: fieldservice
+msgid "Manager"
+msgstr "Керівник"
+
+#. module: fieldservice
+msgid "Mapping Tools"
+msgstr "Інструменти картографування"
+
+#. module: fieldservice
+msgid "Master Data"
+msgstr "Основні дані"
+
+#. module: fieldservice
+msgid "Me"
+msgstr "Я"
+
+#. module: fieldservice
+msgid "Meetings"
+msgstr "Зустрічі"
+
+#. module: fieldservice
+msgid "Message Delivery error"
+msgstr "Помилка доставки повідомлення"
+
+#. module: fieldservice
+msgid "Message for Invoice"
+msgstr "Повідомлення для рахунку"
+
+#. module: fieldservice
+msgid "Message for Purchase Order"
+msgstr "Повідомлення для замовлення на закупівлю"
+
+#. module: fieldservice
+msgid "Message for Sales Order"
+msgstr "Повідомлення для замовлення на продаж"
+
+#. module: fieldservice
+msgid "Message for Stock Picking"
+msgstr "Повідомлення для складського комплектування"
+
+#. module: fieldservice
+msgid "Messages"
+msgstr "Повідомлення"
+
+#. module: fieldservice
+msgid "Mobile"
+msgstr "Мобільний"
+
+#. module: fieldservice
+msgid "My Activity Deadline"
+msgstr "Кінцевий термін моєї дії"
+
+#. module: fieldservice
+msgid "My Orders"
+msgstr "Мої замовлення"
+
+#. module: fieldservice
+msgid "Name"
+msgstr "Назва"
+
+#. module: fieldservice
+msgid "Need Assigned"
+msgstr "Потребує призначення"
+
+#. module: fieldservice
+msgid "Need Scheduled"
+msgstr "Потребує планування"
+
+#. module: fieldservice
+#. odoo-python
+msgid "New"
+msgstr "Новий"
+
+#. module: fieldservice
+msgid "Next Activity Calendar Event"
+msgstr "Подія календаря наступної дії"
+
+#. module: fieldservice
+msgid "Next Activity Deadline"
+msgstr "Кінцевий термін наступної дії"
+
+#. module: fieldservice
+msgid "Next Activity Summary"
+msgstr "Опис наступної дії"
+
+#. module: fieldservice
+msgid "Next Activity Type"
+msgstr "Тип наступної дії"
+
+#. module: fieldservice
+msgid "Next Stage"
+msgstr "Наступний етап"
+
+#. module: fieldservice
+msgid "Normal"
+msgstr "Звичайний"
+
+#. module: fieldservice
+msgid "Normalized Email"
+msgstr "Нормалізована ел. адреса"
+
+#. module: fieldservice
+msgid "Notes"
+msgstr "Примітки"
+
+#. module: fieldservice
+msgid "Number of Actions"
+msgstr "Кількість дій"
+
+#. module: fieldservice
+msgid "Number of days to send reminder email before the promised receipt date"
+msgstr "Кількість днів до обіцяної дати отримання для надсилання листа-нагадування"
+
+#. module: fieldservice
+msgid "Number of errors"
+msgstr "Кількість помилок"
+
+#. module: fieldservice
+msgid "Number of messages requiring action"
+msgstr "Кількість повідомлень, що потребують дії"
+
+#. module: fieldservice
+msgid "Number of messages with delivery error"
+msgstr "Кількість повідомлень із помилкою доставки"
+
+#. module: fieldservice
+msgid "Office Hours"
+msgstr "Робочі години"
+
+#. module: fieldservice
+msgid "On-Time Delivery Rate"
+msgstr "Рівень своєчасної доставки"
+
+#. module: fieldservice
+msgid "Operations"
+msgstr "Операції"
+
+#. module: fieldservice
+msgid "Opportunities"
+msgstr "Можливості"
+
+#. module: fieldservice
+msgid "Opportunity Count"
+msgstr "Кількість можливостей"
+
+#. module: fieldservice
+msgid "Order"
+msgstr "Замовлення"
+
+#. module: fieldservice
+msgid "Order Assigned"
+msgstr "Замовлення призначено"
+
+#. module: fieldservice
+msgid "Order Cancelled"
+msgstr "Замовлення скасовано"
+
+#. module: fieldservice
+msgid "Order Completed"
+msgstr "Замовлення виконано"
+
+#. module: fieldservice
+msgid "Order Confirmed"
+msgstr "Замовлення підтверджено"
+
+#. module: fieldservice
+msgid "Order Created"
+msgstr "Замовлення створено"
+
+#. module: fieldservice
+msgid "Order En Route"
+msgstr "Замовлення в дорозі"
+
+#. module: fieldservice
+msgid "Order Scheduled"
+msgstr "Замовлення заплановано"
+
+#. module: fieldservice
+msgid "Order Started"
+msgstr "Замовлення розпочато"
+
+#. module: fieldservice
+msgid "Order Team"
+msgstr "Команда замовлення"
+
+#. module: fieldservice
+msgid "Order Templates"
+msgstr "Шаблони замовлень"
+
+#. module: fieldservice
+msgid "Order Types"
+msgstr "Типи замовлень"
+
+#. module: fieldservice
+msgid "Order assigned"
+msgstr "Замовлення призначено"
+
+#. module: fieldservice
+msgid "Order cancelled"
+msgstr "Замовлення скасовано"
+
+#. module: fieldservice
+msgid "Order completed"
+msgstr "Замовлення виконано"
+
+#. module: fieldservice
+msgid "Order confirmed"
+msgstr "Замовлення підтверджено"
+
+#. module: fieldservice
+msgid "Order created"
+msgstr "Замовлення створено"
+
+#. module: fieldservice
+msgid "Order en route"
+msgstr "Замовлення в дорозі"
+
+#. module: fieldservice
+msgid "Order scheduled"
+msgstr "Замовлення заплановано"
+
+#. module: fieldservice
+#. odoo-python
+#, python-format
+msgid "Order signed by %s"
+msgstr "Замовлення підписав(ла) %s"
+
+#. module: fieldservice
+msgid "Order started"
+msgstr "Замовлення розпочато"
+
+#. module: fieldservice
+msgid "Orders"
+msgstr "Замовлення"
+
+#. module: fieldservice
+msgid "Orders Count"
+msgstr "Кількість замовлень"
+
+#. module: fieldservice
+msgid "Orders Reports."
+msgstr "Звіти замовлень."
+
+#. module: fieldservice
+msgid "Orders to Assign"
+msgstr "Замовлення до призначення"
+
+#. module: fieldservice
+msgid "Orders to Schedule"
+msgstr "Замовлення до планування"
+
+#. module: fieldservice
+msgid "Others"
+msgstr "Інші"
+
+#. module: fieldservice
+msgid ""
+"Over the past x days; the number of products received on time divided by the"
+" number of ordered products.x is either the System Parameter "
+"purchase_stock.on_time_delivery_days or the default 365"
+msgstr ""
+"За останні x днів: кількість товарів, отриманих вчасно, поділена на "
+"кількість замовлених товарів. x — системний параметр "
+"purchase_stock.on_time_delivery_days або типове значення 365"
+
+#. module: fieldservice
+msgid "Owned By"
+msgstr "Належить"
+
+#. module: fieldservice
+msgid "Owned Locations"
+msgstr "Власні місця"
+
+#. module: fieldservice
+msgid "Owner"
+msgstr "Власник"
+
+#. module: fieldservice
+msgid "Parent"
+msgstr "Батьківський"
+
+#. module: fieldservice
+msgid "Parent Path"
+msgstr "Батьківський шлях"
+
+#. module: fieldservice
+msgid "Parent name"
+msgstr "Назва батьківського запису"
+
+#. module: fieldservice
+msgid "Partner Company Registry Placeholder"
+msgstr "Заповнювач реєстраційного номера компанії контрагента"
+
+#. module: fieldservice
+msgid "Partner Contracts"
+msgstr "Договори контрагента"
+
+#. module: fieldservice
+msgid "Partner Limit"
+msgstr "Ліміт контрагента"
+
+#. module: fieldservice
+msgid "Partner Vat Placeholder"
+msgstr "Заповнювач ПДВ контрагента"
+
+#. module: fieldservice
+msgid "Partner is Active"
+msgstr "Контрагент активний"
+
+#. module: fieldservice
+msgid "Partner with same Company Registry"
+msgstr "Контрагент із таким самим реєстраційним номером компанії"
+
+#. module: fieldservice
+msgid "Partner with same Tax ID"
+msgstr "Контрагент із таким самим податковим номером"
+
+#. module: fieldservice
+msgid "Payable Limit"
+msgstr "Ліміт кредиторської заборгованості"
+
+#. module: fieldservice
+msgid "Payment Token Count"
+msgstr "Кількість токенів оплати"
+
+#. module: fieldservice
+msgid "Payment Tokens"
+msgstr "Токени оплати"
+
+#. module: fieldservice
+msgid "Person Checked"
+msgstr "Особа перевірена"
+
+#. module: fieldservice
+msgid "Phone"
+msgstr "Телефон"
+
+#. module: fieldservice
+msgid "Phone Blacklisted"
+msgstr "Телефон у чорному списку"
+
+#. module: fieldservice
+msgid "Phone/Mobile"
+msgstr "Телефон/мобільний"
+
+#. module: fieldservice
+msgid "Plan To Change Bike"
+msgstr "Планує змінити велосипед"
+
+#. module: fieldservice
+msgid "Plan To Change Car"
+msgstr "Планує змінити авто"
+
+#. module: fieldservice
+msgid "Planning"
+msgstr "Планування"
+
+#. module: fieldservice
+msgid "Preferred Workers"
+msgstr "Бажані працівники"
+
+#. module: fieldservice
+msgid ""
+"Preferred payment method when buying from this vendor. This will be set by "
+"default on all outgoing payments created for this vendor"
+msgstr ""
+"Бажаний метод оплати під час закупівлі в цього постачальника. Його буде "
+"встановлено за замовчуванням для всіх вихідних платежів цьому постачальнику"
+
+#. module: fieldservice
+msgid ""
+"Preferred payment method when selling to this customer. This will be set by "
+"default on all incoming payments created for this customer"
+msgstr ""
+"Бажаний метод оплати під час продажу цьому клієнту. Його буде встановлено за"
+" замовчуванням для всіх вхідних платежів від цього клієнта"
+
+#. module: fieldservice
+msgid "Previous Stage"
+msgstr "Попередній етап"
+
+#. module: fieldservice
+msgid "Pricelist"
+msgstr "Прайс-лист"
+
+#. module: fieldservice
+msgid "Primary Assignment"
+msgstr "Основне призначення"
+
+#. module: fieldservice
+msgid "Primary Contact"
+msgstr "Основний контакт"
+
+#. module: fieldservice
+msgid "Primary Service Location"
+msgstr "Основне місце обслуговування"
+
+#. module: fieldservice
+msgid "Priority"
+msgstr "Пріоритет"
+
+#. module: fieldservice
+msgid "Priority Management Explanation"
+msgstr "Пояснення керування пріоритетами"
+
+#. module: fieldservice
+msgid "Projects and Tasks"
+msgstr "Проєкти та завдання"
+
+#. module: fieldservice
+msgid "Property Inbound Payment Method Line"
+msgstr "Властивість рядка методу вхідної оплати"
+
+#. module: fieldservice
+msgid "Property Outbound Payment Method Line"
+msgstr "Властивість рядка методу вихідної оплати"
+
+#. module: fieldservice
+msgid "Purchase Field Services"
+msgstr "Закупівля виїзних послуг"
+
+#. module: fieldservice
+msgid "Purchase Lines"
+msgstr "Рядки закупівлі"
+
+#. module: fieldservice
+msgid "Purchase Order Count"
+msgstr "Кількість замовлень на закупівлю"
+
+#. module: fieldservice
+msgid "Purchase Order Warning"
+msgstr "Попередження замовлення на закупівлю"
+
+#. module: fieldservice
+msgid "Ratings"
+msgstr "Оцінки"
+
+#. module: fieldservice
+msgid "Receipt Reminder"
+msgstr "Нагадування про отримання"
+
+#. module: fieldservice
+msgid "Record Type"
+msgstr "Тип запису"
+
+#. module: fieldservice
+msgid "Reference"
+msgstr "Посилання"
+
+#. module: fieldservice
+msgid "Refresh"
+msgstr "Оновити"
+
+#. module: fieldservice
+msgid "Refresh Localization"
+msgstr "Оновити локалізацію"
+
+#. module: fieldservice
+msgid "Region"
+msgstr "Регіон"
+
+#. module: fieldservice
+msgid "Region Manager"
+msgstr "Керівник регіону"
+
+#. module: fieldservice
+msgid "Related Company"
+msgstr "Пов'язана компанія"
+
+#. module: fieldservice
+msgid "Related FS Location"
+msgstr "Пов'язане місце виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Related Owner"
+msgstr "Пов'язаний власник"
+
+#. module: fieldservice
+msgid "Related Partner"
+msgstr "Пов'язаний контрагент"
+
+#. module: fieldservice
+msgid "Related employees based on their private address"
+msgstr "Пов'язані співробітники на основі їхньої приватної адреси"
+
+#. module: fieldservice
+msgid "Reporting"
+msgstr "Звітність"
+
+#. module: fieldservice
+msgid "Request Workers"
+msgstr "Працівники запиту"
+
+#. module: fieldservice
+msgid "Require Signature"
+msgstr "Вимагати підпис"
+
+#. module: fieldservice
+msgid "Requirements"
+msgstr "Вимоги"
+
+#. module: fieldservice
+msgid "Resolution"
+msgstr "Рішення"
+
+#. module: fieldservice
+msgid "Resolution Notes"
+msgstr "Примітки до рішення"
+
+#. module: fieldservice
+msgid "Responsible User"
+msgstr "Відповідальний користувач"
+
+#. module: fieldservice
+msgid "Routes"
+msgstr "Маршрути"
+
+#. module: fieldservice
+msgid "SMS Delivery error"
+msgstr "Помилка доставки SMS"
+
+#. module: fieldservice
+msgid "Sale Order Count"
+msgstr "Кількість замовлень на продаж"
+
+#. module: fieldservice
+msgid "Sales Order"
+msgstr "Замовлення на продаж"
+
+#. module: fieldservice
+msgid "Sales Warnings"
+msgstr "Попередження продажів"
+
+#. module: fieldservice
+msgid "Salesperson"
+msgstr "Продавець"
+
+#. module: fieldservice
+msgid "Sanitized Number"
+msgstr "Очищений номер"
+
+#. module: fieldservice
+msgid "Schedule Details"
+msgstr "Деталі планування"
+
+#. module: fieldservice
+msgid "Scheduled Duration"
+msgstr "Запланована тривалість"
+
+#. module: fieldservice
+msgid "Scheduled End"
+msgstr "Заплановане завершення"
+
+#. module: fieldservice
+msgid "Scheduled Start (ETA)"
+msgstr "Запланований початок (ОЧП)"
+
+#. module: fieldservice
+msgid "Scheduled duration of the work in hours"
+msgstr "Запланована тривалість робіт у годинах"
+
+#. module: fieldservice
+msgid "Search FSM Location"
+msgstr "Пошук місця FSM"
+
+#. module: fieldservice
+msgid "Search FSM Teams"
+msgstr "Пошук команд FSM"
+
+#. module: fieldservice
+msgid "Search FSM Workers"
+msgstr "Пошук працівників FSM"
+
+#. module: fieldservice
+msgid "Search Location By Hierarchy"
+msgstr "Пошук місця за ієрархією"
+
+#. module: fieldservice
+msgid "Search Location Worker"
+msgstr "Пошук працівника місця"
+
+#. module: fieldservice
+msgid "Search Locations based on their full hierarchy name"
+msgstr "Пошук місць за їхньою повною ієрархічною назвою"
+
+#. module: fieldservice
+msgid ""
+"Select whether you want to convert this record to a Field\n"
+"                    Service Worker or Location."
+msgstr ""
+"Виберіть, чи потрібно перетворити цей запис на працівника\n"
+"                    або місце виїзного обслуговування."
+
+#. module: fieldservice
+msgid ""
+"Selecting the \"Warning\" option will notify user with the message, "
+"Selecting \"Blocking Message\" will throw an exception with the message and "
+"block the flow. The Message has to be written in the next field."
+msgstr ""
+"Вибір опції \"Попередження\" повідомить користувача цим текстом, а "
+"\"Блокувальне повідомлення\" створить виняток із цим текстом і заблокує "
+"процес. Текст повідомлення потрібно вказати в наступному полі."
+
+#. module: fieldservice
+msgid "Self"
+msgstr "Власний"
+
+#. module: fieldservice
+msgid "Sell FSM orders"
+msgstr "Продавати замовлення FSM"
+
+#. module: fieldservice
+msgid "Sell Field Service Orders"
+msgstr "Продавати замовлення виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Sell products that generate field service orders"
+msgstr "Продавати товари, що створюють замовлення виїзного обслуговування"
+
+#. module: fieldservice
+msgid "Sequence"
+msgstr "Послідовність"
+
+#. module: fieldservice
+msgid "Service Locations"
+msgstr "Місця обслуговування"
+
+#. module: fieldservice
+msgid "Service Order"
+msgstr "Замовлення на обслуговування"
+
+#. module: fieldservice
+msgid "Service Orders"
+msgstr "Замовлення на обслуговування"
+
+#. module: fieldservice
+msgid "Services in this stage are considered as closed."
+msgstr "Послуги на цьому етапі вважаються закритими."
+
+#. module: fieldservice
+msgid "Set a value greater than 0.0 to activate a credit limit check"
+msgstr "Установіть значення більше 0,0, щоб активувати перевірку кредитного ліміту"
+
+#. module: fieldservice
+msgid "Settings"
+msgstr "Налаштування"
+
+#. module: fieldservice
+msgid "Share Partner"
+msgstr "Спільний контрагент"
+
+#. module: fieldservice
+msgid "Show Credit Limit"
+msgstr "Показувати кредитний ліміт"
+
+#. module: fieldservice
+msgid "Sign"
+msgstr "Підпис"
+
+#. module: fieldservice
+msgid "Signature"
+msgstr "Підпис"
+
+#. module: fieldservice
+msgid "Signed By"
+msgstr "Підписав"
+
+#. module: fieldservice
+msgid "Signed On"
+msgstr "Дата підписання"
+
+#. module: fieldservice
+msgid "Signup Token Type"
+msgstr "Тип токена реєстрації"
+
+#. module: fieldservice
+msgid "Specific Property Product Pricelist"
+msgstr "Спеціальна властивість прайс-листа товару"
+
+#. module: fieldservice
+msgid "Stage"
+msgstr "Етап"
+
+#. module: fieldservice
+msgid "Stage Color"
+msgstr "Колір етапу"
+
+#. module: fieldservice
+msgid "Stage Description and Tooltips"
+msgstr "Опис етапу та підказки"
+
+#. module: fieldservice
+msgid "Stage Name"
+msgstr "Назва етапу"
+
+#. module: fieldservice
+msgid "Stages"
+msgstr "Етапи"
+
+#. module: fieldservice
+msgid "Starred Message"
+msgstr "Позначене повідомлення"
+
+#. module: fieldservice
+msgid "State"
+msgstr "Стан"
+
+#. module: fieldservice
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+"Стан на основі дій\n"
+"Прострочено: термін уже минув\n"
+"Сьогодні: дата дії — сьогодні\n"
+"Заплановано: майбутні дії."
+
+#. module: fieldservice
+msgid "Stock Picking"
+msgstr "Складське комплектування"
+
+#. module: fieldservice
+msgid "Street"
+msgstr "Вулиця"
+
+#. module: fieldservice
+msgid "Street 2..."
+msgstr "Додаткова адреса..."
+
+#. module: fieldservice
+msgid "Street..."
+msgstr "Вулиця..."
+
+#. module: fieldservice
+msgid "Street2"
+msgstr "Додаткова адреса"
+
+#. module: fieldservice
+msgid "Sub Locations"
+msgstr "Підлеглі місця"
+
+#. module: fieldservice
+msgid "Sub-Locations"
+msgstr "Підлеглі місця"
+
+#. module: fieldservice
+msgid "Supplier Currency"
+msgstr "Валюта постачальника"
+
+#. module: fieldservice
+msgid "Supplier Rank"
+msgstr "Рейтинг постачальника"
+
+#. module: fieldservice
+msgid "Tag name already exists!"
+msgstr "Мітка з такою назвою вже існує!"
+
+#. module: fieldservice
+msgid "Tags"
+msgstr "Мітки"
+
+#. module: fieldservice
+msgid "Tax ID"
+msgstr "Податковий номер"
+
+#. module: fieldservice
+msgid "Tax ID Label"
+msgstr "Мітка податкового номера"
+
+#. module: fieldservice
+msgid "Team"
+msgstr "Команда"
+
+#. module: fieldservice
+msgid "Team Name"
+msgstr "Назва команди"
+
+#. module: fieldservice
+msgid "Team name already exists!"
+msgstr "Команда з такою назвою вже існує!"
+
+#. module: fieldservice
+msgid "Teams"
+msgstr "Команди"
+
+#. module: fieldservice
+msgid "Template"
+msgstr "Шаблон"
+
+#. module: fieldservice
+msgid "Templates"
+msgstr "Шаблони"
+
+#. module: fieldservice
+msgid "Territories"
+msgstr "Території"
+
+#. module: fieldservice
+msgid "Territory"
+msgstr "Територія"
+
+#. module: fieldservice
+msgid ""
+"The ISO country code in two chars. \n"
+"You can use this field for quick search."
+msgstr ""
+"Двосимвольний ISO-код країни. \n"
+"Це поле можна використовувати для швидкого пошуку."
+
+#. module: fieldservice
+msgid ""
+"The Tax Identification Number. Values here will be validated based on the "
+"country format. You can use '/' to indicate that the partner is not subject "
+"to tax."
+msgstr ""
+"Податковий ідентифікаційний номер. Значення перевіряються відповідно до "
+"формату країни. Використовуйте '/', щоб указати, що контрагент не є "
+"платником податків."
+
+#. module: fieldservice
+msgid "The fiscal position determines the taxes/accounts used for this contact."
+msgstr ""
+"Фіскальна позиція визначає податки/рахунки, що використовуються для цього "
+"контакту."
+
+#. module: fieldservice
+msgid "The internal user in charge of this contact."
+msgstr "Внутрішній користувач, відповідальний за цей контакт."
+
+#. module: fieldservice
+msgid ""
+"The registry number of the company. Use it if it is different from the Tax "
+"ID. It must be unique across all partners of a same country"
+msgstr ""
+"Реєстраційний номер компанії. Використовуйте його, якщо він відрізняється "
+"від податкового номера. Він має бути унікальним серед усіх контрагентів "
+"однієї країни"
+
+#. module: fieldservice
+msgid "The stock location used as destination when sending goods to this contact."
+msgstr ""
+"Складське місце, що використовується як призначення під час відправлення "
+"товарів цьому контакту."
+
+#. module: fieldservice
+msgid "The stock location used as source when receiving goods from this contact."
+msgstr ""
+"Складське місце, що використовується як джерело під час отримання товарів "
+"від цього контакту."
+
+#. module: fieldservice
+msgid "The worker is already linked to this location."
+msgstr "Працівника вже пов'язано з цим місцем."
+
+#. module: fieldservice
+msgid ""
+"This account will be used instead of the default one as the payable account "
+"for the current partner"
+msgstr ""
+"Цей рахунок використовуватиметься замість типового як рахунок кредиторської "
+"заборгованості поточного контрагента"
+
+#. module: fieldservice
+msgid ""
+"This account will be used instead of the default one as the receivable "
+"account for the current partner"
+msgstr ""
+"Цей рахунок використовуватиметься замість типового як рахунок дебіторської "
+"заборгованості поточного контрагента"
+
+#. module: fieldservice
+msgid ""
+"This currency will be used, instead of the default one, for purchases from "
+"the current partner"
+msgstr ""
+"Ця валюта використовуватиметься замість типової для закупівель у поточного "
+"контрагента"
+
+#. module: fieldservice
+msgid ""
+"This field is used to search on email address as the primary email field can"
+" contain more than strictly an email address."
+msgstr ""
+"Це поле використовується для пошуку за ел. адресою, оскільки основне поле "
+"ел. пошти може містити не лише саму адресу."
+
+#. module: fieldservice
+msgid ""
+"This payment term will be used instead of the default one for purchase "
+"orders and vendor bills"
+msgstr ""
+"Ці умови оплати використовуватимуться замість типових для замовлень на "
+"закупівлю та рахунків постачальника"
+
+#. module: fieldservice
+msgid ""
+"This payment term will be used instead of the default one for sales orders "
+"and customer invoices"
+msgstr ""
+"Ці умови оплати використовуватимуться замість типових для замовлень на "
+"продаж і рахунків клієнтів"
+
+#. module: fieldservice
+msgid ""
+"This pricelist will be used, instead of the default one, for sales to the "
+"current partner"
+msgstr ""
+"Цей прайс-лист використовуватиметься замість типового для продажів поточному"
+" контрагенту"
+
+#. module: fieldservice
+msgid ""
+"This stage is folded in the kanban view when there are no record in that "
+"stage to display."
+msgstr ""
+"Цей етап згортається в Kanban-поданні, коли на ньому немає записів для "
+"відображення."
+
+#. module: fieldservice
+msgid "Timezone"
+msgstr "Часовий пояс"
+
+#. module: fieldservice
+msgid "Timezone offset"
+msgstr "Зміщення часового поясу"
+
+#. module: fieldservice
+msgid "Title"
+msgstr "Заголовок"
+
+#. module: fieldservice
+msgid "To Assign"
+msgstr "До призначення"
+
+#. module: fieldservice
+msgid "To Do"
+msgstr "До виконання"
+
+#. module: fieldservice
+msgid "To Schedule"
+msgstr "До планування"
+
+#. module: fieldservice
+msgid "Today Orders"
+msgstr "Сьогоднішні замовлення"
+
+#. module: fieldservice
+msgid "Total Invoiced"
+msgstr "Усього виставлено рахунків"
+
+#. module: fieldservice
+msgid "Total Payable"
+msgstr "Загальна кредиторська заборгованість"
+
+#. module: fieldservice
+msgid "Total Receivable"
+msgstr "Загальна дебіторська заборгованість"
+
+#. module: fieldservice
+msgid "Total amount this customer owes you."
+msgstr "Загальна сума заборгованості цього клієнта перед вами."
+
+#. module: fieldservice
+msgid "Total amount you have to pay to this vendor."
+msgstr "Загальна сума, яку потрібно сплатити цьому постачальнику."
+
+#. module: fieldservice
+msgid "Type"
+msgstr "Тип"
+
+#. module: fieldservice
+msgid "Type of the exception activity on record."
+msgstr "Тип виняткової дії для запису."
+
+#. module: fieldservice
+msgid "Unassigned"
+msgstr "Не призначено"
+
+#. module: fieldservice
+msgid "Unscheduled"
+msgstr "Не заплановано"
+
+#. module: fieldservice
+msgid "Updated on:"
+msgstr "Оновлено:"
+
+#. module: fieldservice
+msgid "Urgent"
+msgstr "Терміновий"
+
+#. module: fieldservice
+msgid "Use FSM Location Builder"
+msgstr "Використовувати конструктор місця FSM"
+
+#. module: fieldservice
+msgid "Use GeoEngine"
+msgstr "Використовувати GeoEngine"
+
+#. module: fieldservice
+msgid "Use GeoEngine with OpenStreetMap"
+msgstr "Використовувати GeoEngine з OpenStreetMap"
+
+#. module: fieldservice
+msgid "Use Hex Code only Ex:-#FFFFFF"
+msgstr "Використовуйте лише HEX-код, напр. #FFFFFF"
+
+#. module: fieldservice
+msgid "Use Odoo Logistics"
+msgstr "Використовувати логістику Odoo"
+
+#. module: fieldservice
+msgid "Use a barcode to identify this contact."
+msgstr "Використовуйте штрихкод для ідентифікації цього контакту."
+
+#. module: fieldservice
+msgid "Used a default stage"
+msgstr "Використано етап за замовчуванням"
+
+#. module: fieldservice
+msgid "Used to order stages. Lower is better."
+msgstr "Використовується для впорядкування етапів. Менше значення — вище."
+
+#. module: fieldservice
+msgid "Used to sort teams. Lower is better."
+msgstr "Використовується для сортування команд. Менше значення — вище."
+
+#. module: fieldservice
+msgid "User"
+msgstr "Користувач"
+
+#. module: fieldservice
+msgid "User (only own documents)"
+msgstr "Користувач (лише власні документи)"
+
+#. module: fieldservice
+msgid "Users"
+msgstr "Користувачі"
+
+#. module: fieldservice
+msgid "Vehicles"
+msgstr "Транспортні засоби"
+
+#. module: fieldservice
+msgid "Vendor Location"
+msgstr "Місце постачальника"
+
+#. module: fieldservice
+msgid "Vendor Payment Terms"
+msgstr "Умови оплати постачальника"
+
+#. module: fieldservice
+msgid "Website Link"
+msgstr "Посилання на вебсайт"
+
+#. module: fieldservice
+msgid "Website Messages"
+msgstr "Повідомлення вебсайту"
+
+#. module: fieldservice
+msgid "Website communication history"
+msgstr "Історія комунікації через вебсайт"
+
+#. module: fieldservice
+msgid ""
+"When printing documents and exporting/importing data, time values are "
+"computed according to this timezone.\n"
+"If the timezone is not set, UTC (Coordinated Universal Time) is used.\n"
+"Anywhere else, time values are computed according to the time offset of your"
+" web client."
+msgstr ""
+"Під час друку документів та експорту/імпорту даних значення часу "
+"обчислюються відповідно до цього часового поясу.\n"
+"Якщо часовий пояс не задано, використовується UTC (всесвітній координований "
+"час).\n"
+"В усіх інших випадках значення часу обчислюються відповідно до зміщення часу"
+" вашого вебклієнта."
+
+#. module: fieldservice
+msgid "Whether to ask for a Customer Signature when the order is in this stage."
+msgstr "Чи запитувати підпис клієнта, коли замовлення перебуває на цьому етапі."
+
+#. module: fieldservice
+msgid "Worker"
+msgstr "Працівник"
+
+#. module: fieldservice
+msgid "Worker Phone"
+msgstr "Телефон працівника"
+
+#. module: fieldservice
+msgid "Worker Stage 1"
+msgstr "Етап працівника 1"
+
+#. module: fieldservice
+msgid "Worker Stage 2"
+msgstr "Етап працівника 2"
+
+#. module: fieldservice
+msgid "Worker Stage 3"
+msgstr "Етап працівника 3"
+
+#. module: fieldservice
+msgid "Workers"
+msgstr "Працівники"
+
+#. module: fieldservice
+msgid "Working Schedule"
+msgstr "Робочий графік"
+
+#. module: fieldservice
+msgid ""
+"You can add a description to help your coworkers understand the meaning and "
+"purpose of the stage."
+msgstr ""
+"Можна додати опис, щоб допомогти колегам зрозуміти значення та призначення "
+"етапу."
+
+#. module: fieldservice
+msgid "You can archive the contact"
+msgstr "Ви можете архівувати контакт"
+
+#. module: fieldservice
+#. odoo-python
+msgid "You cannot delete this order."
+msgstr "Це замовлення не можна видалити."
+
+#. module: fieldservice
+msgid "You cannot have the same worker twice."
+msgstr "Не можна додати одного працівника двічі."
+
+#. module: fieldservice
+#. odoo-python
+msgid "You must create an FSM order stage first."
+msgstr "Спочатку потрібно створити етап замовлення FSM."
+
+#. module: fieldservice
+#. odoo-python
+msgid "You must create an FSM team first."
+msgstr "Спочатку потрібно створити команду FSM."
+
+#. module: fieldservice
+msgid "ZIP"
+msgstr "Поштовий індекс"
+
+#. module: fieldservice
+msgid "Zip"
+msgstr "Поштовий індекс"
+
+#. module: fieldservice
+msgid ""
+"[(Total Receivable/Total Revenue) * number of days since the first invoice] "
+"for this customer"
+msgstr ""
+"[(Загальна дебіторська заборгованість/Загальний дохід) * кількість днів від "
+"першого рахунку] для цього клієнта"
+
+#. module: fieldservice
+msgid "eInvoice format"
+msgstr "Формат електронного рахунку"
+
+#. module: fieldservice
+msgid "tag"
+msgstr "мітка"
+
+#. module: fieldservice
+msgid "template"
+msgstr "шаблон"
+
+#. module: fieldservice
+msgid "x"
+msgstr "x"
+
