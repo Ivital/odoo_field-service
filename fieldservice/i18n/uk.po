@@ -2291,7 +2291,7 @@ msgstr "Мітка з такою назвою вже існує!"
 
 #. module: fieldservice
 msgid "Tags"
-msgstr "Мітки"
+msgstr "Теги"
 
 #. module: fieldservice
 msgid "Tax ID"
