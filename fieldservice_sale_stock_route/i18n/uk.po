@@ -58,3 +58,57 @@ msgstr ""
 "Це гранична дата доставки, обіцяна клієнту. Якщо її задано, замовлення на "
 "доставку буде заплановано за цією датою, а не за строками постачання "
 "товарів."
+
+#. module: fieldservice_sale_stock_route
+#. odoo-python
+#: code:addons/fieldservice_sale_stock_route/models/fsm_order.py:0
+msgid "- Delivery Date: %(old)s → %(new)s"
+msgstr "- Дата доставки: %(old)s → %(new)s"
+
+#. module: fieldservice_sale_stock_route
+#. odoo-python
+#: code:addons/fieldservice_sale_stock_route/models/fsm_order.py:0
+msgid "- Delivery End Date: %(old)s → %(new)s"
+msgstr "- Дата завершення доставки: %(old)s → %(new)s"
+
+#. module: fieldservice_sale_stock_route
+#. odoo-python
+#: code:addons/fieldservice_sale_stock_route/models/fsm_order.py:0
+msgid "<b>Updated Delivery Dates:</b><br/>"
+msgstr "<b>Оновлені дати доставки:</b><br/>"
+
+#. module: fieldservice_sale_stock_route
+#. odoo-python
+#: code:addons/fieldservice_sale_stock_route/models/fsm_order.py:0
+msgid "Delivery postponed. New scheduled date: %s."
+msgstr "Доставку відкладено. Нова запланована дата: %s."
+
+#. module: fieldservice_sale_stock_route
+#. odoo-python
+#: code:addons/fieldservice_sale_stock_route/models/sale_order.py:0
+msgid "FSM Location must have a route set."
+msgstr "Для місця FSM має бути задано маршрут."
+
+#. module: fieldservice_sale_stock_route
+#. odoo-python
+#: code:addons/fieldservice_sale_stock_route/models/sale_order.py:0
+msgid "FSM Route must have a person set."
+msgstr "Маршрут FSM повинен мати призначену особу."
+
+#. module: fieldservice_sale_stock_route
+#. odoo-python
+#: code:addons/fieldservice_sale_stock_route/models/sale_order.py:0
+msgid "FSM Route must have days set."
+msgstr "Маршрут FSM повинен мати задані дні."
+
+#. module: fieldservice_sale_stock_route
+#. odoo-python
+#: code:addons/fieldservice_sale_stock_route/models/sale_order.py:0
+msgid ""
+"The selected delivery date (%(day)s) is not available for route %(route)s. "
+"Please choose a valid date based on the available schedule, or enable 'Force"
+" Schedule' on the route to override this restriction."
+msgstr ""
+"Вибрана дата доставки (%(day)s) недоступна для маршруту %(route)s. Виберіть "
+"допустиму дату відповідно до доступного розкладу або увімкніть на маршруті "
+"'Примусовий розклад', щоб обійти це обмеження."

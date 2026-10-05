@@ -189,3 +189,9 @@ msgid ""
 msgstr ""
 "Конкретний маршрут, до якого застосовується цей часовий діапазон. Залиште "
 "порожнім для глобальних діапазонів."
+
+#. module: fieldservice_availability
+#. odoo-python
+#: code:addons/fieldservice_availability/models/fsm_delivery_time_range.py:0
+msgid "The start time must be earlier than the end time."
+msgstr "Час початку має бути раніше часу завершення."

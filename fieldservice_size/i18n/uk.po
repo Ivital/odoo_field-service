@@ -152,3 +152,9 @@ msgstr "Назва розміру вже існує!"
 #: model:ir.model.fields,help:fieldservice_size.field_fsm_size__is_order_size
 msgid "The default size for orders of this type"
 msgstr "Типовий розмір замовлень цього типу"
+
+#. module: fieldservice_size
+#. odoo-python
+#: code:addons/fieldservice_size/models/fsm_size.py:0
+msgid "Only one default order size per type is allowed."
+msgstr "Для кожного типу дозволений лише один типовий розмір замовлення."

@@ -127,3 +127,12 @@ msgstr "Дії замовлення"
 #: model:ir.model,name:fieldservice_activity.model_fsm_activity
 msgid "Field Service Activity"
 msgstr "Діяльність виїзного обслуговування"
+
+#. module: fieldservice_activity
+#. odoo-python
+#: code:addons/fieldservice_activity/models/fsm_order.py:0
+msgid ""
+"You must complete activity '%s' before                     completing this "
+"order."
+msgstr ""
+"Потрібно завершити активність «%s» перед завершенням цього замовлення."

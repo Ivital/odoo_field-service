@@ -127,3 +127,9 @@ msgstr "OpenStreetMap"
 #: model:ir.model.fields,help:fieldservice_geoengine.field_fsm_location__custom_color
 msgid "Use Hex Code only Ex:-#FFFFFF"
 msgstr "Використовуйте лише HEX-код, напр.: #FFFFFF"
+
+#. module: fieldservice_geoengine
+#. odoo-python
+#: code:addons/fieldservice_geoengine/models/vector_layer.py:0
+msgid "You need to select a numeric field"
+msgstr "Потрібно вибрати числове поле"

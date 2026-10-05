@@ -32,3 +32,11 @@ msgstr "Виберіть поля, які мають бути заповнені
 #: model:ir.model.fields,help:fieldservice_stage_validation.field_fsm_stage__stage_type_model_name
 msgid "Technical field to hold model type"
 msgstr "Технічне поле для зберігання типу моделі"
+
+#. module: fieldservice_stage_validation
+#. odoo-python
+#: code:addons/fieldservice_stage_validation/models/validate_utils.py:0
+msgid "Cannot move to stage %(stage_name)s until the %(name)s field is set."
+msgstr ""
+"Не можна перейти на етап %(stage_name)s, доки поле %(name)s не буде "
+"заповнено."

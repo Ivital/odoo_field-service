@@ -310,3 +310,21 @@ msgstr "Максимальна кількість замовлень на ден
 msgid "Maximum numbers of orders that can be added to this day route."
 msgstr ""
 "Максимальна кількість замовлень, які можна додати до маршруту цього дня."
+
+#. module: fieldservice_route
+#. odoo-python
+#: code:addons/fieldservice_route/models/fsm_route_dayroute.py:0
+msgid "The day route is exceeding the maximum number of orders of the route."
+msgstr "Денний маршрут перевищує максимальну кількість замовлень маршруту."
+
+#. module: fieldservice_route
+#. odoo-python
+#: code:addons/fieldservice_route/models/fsm_route_dayroute.py:0
+msgid "The route %(route_name)s does not run on %(name)s!"
+msgstr "Маршрут %(route_name)s не виконується у %(name)s!"
+
+#. module: fieldservice_route
+#. odoo-python
+#: code:addons/fieldservice_route/models/fsm_route_dayroute.py:0
+msgid "You must create a FSM team first."
+msgstr "Спочатку потрібно створити команду FSM."

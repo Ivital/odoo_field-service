@@ -171,3 +171,27 @@ msgstr ""
 #: code:addons/fieldservice_portal/controllers/fsm_order_portal.py:0
 msgid "Newest"
 msgstr "Найновіші"
+
+#. module: fieldservice_portal
+#. odoo-python
+#: code:addons/fieldservice_portal/controllers/fsm_order_portal.py:0
+msgid "Search in All"
+msgstr "Шукати всюди"
+
+#. module: fieldservice_portal
+#. odoo-python
+#: code:addons/fieldservice_portal/controllers/fsm_order_portal.py:0
+msgid "Search in Description"
+msgstr "Шукати в описі"
+
+#. module: fieldservice_portal
+#. odoo-python
+#: code:addons/fieldservice_portal/controllers/fsm_order_portal.py:0
+msgid "Search in Location Numbers"
+msgstr "Шукати в номерах місць"
+
+#. module: fieldservice_portal
+#. odoo-python
+#: code:addons/fieldservice_portal/controllers/fsm_order_portal.py:0
+msgid "Search in WO Number"
+msgstr "Шукати в номері замовлення-наряду"

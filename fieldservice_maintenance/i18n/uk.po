@@ -196,3 +196,15 @@ msgstr "Середній час ремонту"
 msgid "This date will be used to compute the Mean Time Between Failure."
 msgstr ""
 "Ця дата використовуватиметься для обчислення середнього часу між відмовами."
+
+#. module: fieldservice_maintenance
+#. odoo-python
+#: code:addons/fieldservice_maintenance/models/maintenance_request.py:0
+msgid "Missing location"
+msgstr "Відсутнє місце"
+
+#. module: fieldservice_maintenance
+#. odoo-python
+#: code:addons/fieldservice_maintenance/models/maintenance_request.py:0
+msgid "Order was not created because the equipment's location is not set"
+msgstr "Замовлення не створено, оскільки місце обладнання не вказано"

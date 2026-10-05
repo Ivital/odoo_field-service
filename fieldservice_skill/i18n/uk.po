@@ -118,3 +118,13 @@ msgstr "Прогрес від нульових знань (0%) до повног
 #: model:ir.model.constraint,message:fieldservice_skill.constraint_fsm_person_skill_person_skill_uniq
 msgid "This person already has that skill!"
 msgstr "Ця людина вже має цю навичку!"
+
+#. module: fieldservice_skill
+#. odoo-python
+#: code:addons/fieldservice_skill/models/fsm_person_skill.py:0
+msgid ""
+"The skill '%(skill)s'                         and skill type '%(skilltype)s'"
+" doesn't match"
+msgstr ""
+"Навичка «%(skill)s» і тип навички «%(skilltype)s» не відповідають один "
+"одному"

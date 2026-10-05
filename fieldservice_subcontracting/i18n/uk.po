@@ -210,3 +210,203 @@ msgid "The Field Service Order that generated this Purchase Order."
 msgstr ""
 "Замовлення польового обслуговування, яке створило це замовлення на "
 "закупівлю."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid ""
+"%(count)d draft vendor bill(s) cancelled before cancelling the subcontract "
+"Purchase Order."
+msgstr ""
+"%(count)d чернеткових рахунків постачальника скасовано перед скасуванням "
+"субпідрядного замовлення на закупівлю."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid "(none)"
+msgstr "(немає)"
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid ""
+"Cancel Field Service Orders with active subcontract Purchase Orders one at a"
+" time."
+msgstr ""
+"Скасовуйте замовлення виїзного обслуговування з активними субпідрядними "
+"замовленнями на закупівлю по одному."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid ""
+"Cannot cancel Purchase Orders because they have %(count)d posted vendor "
+"bill(s). Please manage the POs manually first."
+msgstr ""
+"Не можна скасувати замовлення на закупівлю, оскільки вони мають %(count)d "
+"проведених рахунків постачальника. Спочатку опрацюйте замовлення вручну."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid "Delivered quantity updated to %(hours).2f hours from FSO %(fso)s."
+msgstr "Доставлену кількість оновлено до %(hours).2f годин із FSO %(fso)s."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid "It does not have an assigned worker."
+msgstr "Не призначено працівника."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid ""
+"No subcontract Purchase Order was created because the assigned worker "
+"'%(worker)s' is an internal worker."
+msgstr ""
+"Субпідрядне замовлення на закупівлю не створено, оскільки призначений "
+"виконавець «%(worker)s» є внутрішнім працівником."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/wizards/fsm_order_reassign_confirm.py:0
+msgid ""
+"One or more Purchase Orders have posted vendor bills and cannot be cancelled"
+" automatically. You must manage the POs manually before reassigning the "
+"worker."
+msgstr ""
+"Одне або кілька замовлень на закупівлю мають проведені рахунки постачальника"
+" й не можуть бути скасовані автоматично. Перед перепризначенням виконавця "
+"опрацюйте їх вручну."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/wizards/fsm_order_cancel_confirm.py:0
+msgid ""
+"One or more related Purchase Orders have posted vendor bills and cannot be "
+"cancelled automatically."
+msgstr ""
+"Одне або кілька пов’язаних замовлень на закупівлю мають проведені рахунки "
+"постачальника й не можуть бути скасовані автоматично."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/wizards/fsm_order_reassign_confirm.py:0
+msgid ""
+"Reassigning the worker will cancel Purchase Orders %(purchase_orders)s. Do "
+"you want to proceed?"
+msgstr ""
+"Перепризначення виконавця скасує замовлення на закупівлю "
+"%(purchase_orders)s. Продовжити?"
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid ""
+"Subcontract Purchase Order:  %(link_purchase_order)s created for vendor "
+"%(vendor)s."
+msgstr ""
+"Субпідрядне замовлення на закупівлю: %(link_purchase_order)s створено для "
+"постачальника %(vendor)s."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid "Subcontracted service: %(fso)s"
+msgstr "Субпідрядна послуга: %(fso)s"
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid "Subcontractor '%(partner)s' is not associated as a supplier."
+msgstr "Субпідрядник «%(partner)s» не пов’язаний як постачальник."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid ""
+"The outsourcing product '%(product)s' has no vendor price configured for "
+"'%(vendor)s'."
+msgstr ""
+"Для товару аутсорсингу «%(product)s» не налаштовано ціну постачальника "
+"«%(vendor)s»."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid "The outsourcing product '%(product)s' must be a service."
+msgstr "Товар аутсорсингу «%(product)s» має бути послугою."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid ""
+"The outsourcing product '%(product)s' must bill based on received "
+"quantities."
+msgstr ""
+"Товар аутсорсингу «%(product)s» має виставлятися в рахунок за отриманою "
+"кількістю."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid ""
+"The outsourcing product is not configured in the template "
+"'%(template_name)s'."
+msgstr "Товар аутсорсингу не налаштовано в шаблоні «%(template_name)s»."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid "The subcontracting purchase order cannot be created:"
+msgstr "Неможливо створити замовлення на закупівлю субпідряду:"
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid "There is no subcontract Purchase Order."
+msgstr "Немає замовлення на закупівлю субпідряду."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/wizards/fsm_order_cancel_confirm.py:0
+msgid ""
+"This Field Service Order has active Purchase Orders %(purchase_orders)s. Do "
+"you want to cancel them too?"
+msgstr ""
+"Це замовлення виїзного обслуговування має активні замовлення на закупівлю "
+"%(purchase_orders)s. Скасувати їх також?"
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/res_partner.py:0
+msgid ""
+"Worker '%(worker)s' is marked as subcontractor but their partner "
+"'%(partner)s' is not configured as a vendor. Please set the partner as a "
+"vendor first."
+msgstr ""
+"Виконавець «%(worker)s» позначений як субпідрядник, але його партнер "
+"«%(partner)s» не налаштований як постачальник. Спочатку налаштуйте партнера "
+"як постачальника."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid ""
+"You cannot directly reassign an order with a subcontract Purchase Order. Use"
+" the Reassign Worker button instead."
+msgstr ""
+"Не можна безпосередньо перепризначити замовлення із субпідрядним замовленням"
+" на закупівлю. Використовуйте кнопку «Перепризначити виконавця»."
+
+#. module: fieldservice_subcontracting
+#. odoo-python
+#: code:addons/fieldservice_subcontracting/models/fsm_order.py:0
+msgid ""
+"You cannot reassign the worker because the Field Service Order is in a "
+"closed stage."
+msgstr ""
+"Не можна перепризначити виконавця, оскільки замовлення виїзного "
+"обслуговування на закритому етапі."

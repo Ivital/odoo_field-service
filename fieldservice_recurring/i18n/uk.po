@@ -859,3 +859,15 @@ msgid ""
 msgstr ""
 "Якщо вибрано, можна буде вказати календарний день\n"
 "            місяця, коли відбувається подія"
+
+#. module: fieldservice_recurring
+#. odoo-python
+#: code:addons/fieldservice_recurring/models/fsm_frequency.py:0
+msgid "'Day of Month must be between 1 and 31"
+msgstr "День місяця має бути між 1 і 31"
+
+#. module: fieldservice_recurring
+#. odoo-python
+#: code:addons/fieldservice_recurring/models/fsm_frequency.py:0
+msgid "Position must be between -366 and 366"
+msgstr "Позиція має бути між -366 і 366"

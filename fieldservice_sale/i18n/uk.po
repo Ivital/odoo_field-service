@@ -110,3 +110,15 @@ msgstr ""
 #: model:ir.model.fields,help:fieldservice_sale.field_product_template__fsm_order_template_id
 msgid "Select the field service order template to be created"
 msgstr "Виберіть шаблон замовлення виїзного сервісу, який потрібно створити"
+
+#. module: fieldservice_sale
+#. odoo-python
+#: code:addons/fieldservice_sale/models/sale_order.py:0
+msgid "FSM Location must be set"
+msgstr "Потрібно вказати місце FSM"
+
+#. module: fieldservice_sale
+#. odoo-python
+#: code:addons/fieldservice_sale/models/sale_order.py:0
+msgid "Field Service Order(s) Created: %s"
+msgstr "Створено замовлення польового сервісу: %s"

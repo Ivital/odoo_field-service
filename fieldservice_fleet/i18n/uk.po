@@ -727,3 +727,11 @@ msgstr ""
 #: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__model_year
 msgid "Year of the model"
 msgstr "Рік моделі"
+
+#. module: fieldservice_fleet
+#. odoo-python
+#: code:addons/fieldservice_fleet/wizard/fsm_fleet_wizard.py:0
+msgid "A Field Service Vehicle related to that Fleet Vehicle already exists."
+msgstr ""
+"Транспорт виїзного обслуговування, пов’язаний із цим транспортом автопарку, "
+"уже існує."
