@@ -22,3 +22,13 @@ msgstr "Поштовий індекс"
 #: model:ir.model.fields,field_description:fieldservice_route_availability.field_fsm_route__fsm_blackout_group_ids
 msgid "Blackout Group Days"
 msgstr "Дні групового блокування"
+
+#. module: fieldservice_route_availability
+#: model:ir.model,name:fieldservice_route_availability.model_fsm_blackout_day
+msgid "Blackout Days (No Service)"
+msgstr "Дні блокування (без обслуговування)"
+
+#. module: fieldservice_route_availability
+#: model:ir.model.fields,help:fieldservice_route_availability.field_fsm_blackout_day__zip
+msgid "Postal code of the blackout day."
+msgstr "Поштовий індекс дня блокування."

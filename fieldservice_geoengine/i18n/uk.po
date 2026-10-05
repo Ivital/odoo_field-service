@@ -96,3 +96,34 @@ msgstr "Векторний шар"
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.fsm_location_form_view
 msgid "&amp;nbsp;Update Latitude and Longitude details accordingly!"
 msgstr "&amp;nbsp;Оновити дані широти та довготи відповідно!"
+
+#. module: fieldservice_geoengine
+#: model:geoengine.vector.layer,name:fieldservice_geoengine.loc_geoengine_vector_layer_fsm0
+msgid "FSM Location Point"
+msgstr "Точка місцезнаходження FSM"
+
+#. module: fieldservice_geoengine
+#: model:geoengine.vector.layer,name:fieldservice_geoengine.loc_geoengine_vector_layer_fsmordertatecoloredcustom0
+msgid "FSM Location State colored custom"
+msgstr "Власний кольоровий стан місця FSM"
+
+#. module: fieldservice_geoengine
+#: model:geoengine.vector.layer,name:fieldservice_geoengine.geoengine_vector_layer_fsm0
+msgid "FSM Order Point"
+msgstr "Точка замовлення FSM"
+
+#. module: fieldservice_geoengine
+#: model:geoengine.vector.layer,name:fieldservice_geoengine.geoengine_vector_layer_fsmordertatecoloredcustom0
+msgid "FSM Order State colored custom"
+msgstr "Власний кольоровий стан замовлення FSM"
+
+#. module: fieldservice_geoengine
+#: model:geoengine.raster.layer,name:fieldservice_geoengine.geoengine_raster_layer_retailmachineosm
+#: model:geoengine.raster.layer,name:fieldservice_geoengine.loc_geoengine_raster_layer_osm
+msgid "Open Street Map"
+msgstr "OpenStreetMap"
+
+#. module: fieldservice_geoengine
+#: model:ir.model.fields,help:fieldservice_geoengine.field_fsm_location__custom_color
+msgid "Use Hex Code only Ex:-#FFFFFF"
+msgstr "Використовуйте лише HEX-код, напр.: #FFFFFF"

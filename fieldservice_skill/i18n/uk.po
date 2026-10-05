@@ -98,3 +98,23 @@ msgstr "Працівник польового обслуговування"
 #: model_terms:ir.actions.act_window,help:fieldservice_skill.action_fsm_person_skill_report
 msgid "Worker Skills Report"
 msgstr "Звіт про навички працівників"
+
+#. module: fieldservice_skill
+#: model:ir.model.fields,help:fieldservice_skill.field_fsm_order__skill_worker_ids
+msgid "Available workers based on skill requirements"
+msgstr "Доступні працівники відповідно до вимог навичок"
+
+#. module: fieldservice_skill
+#: model:ir.model,name:fieldservice_skill.model_fsm_person_skill
+msgid "Field Service Worker Skill"
+msgstr "Навичка працівника виїзного обслуговування"
+
+#. module: fieldservice_skill
+#: model:ir.model.fields,help:fieldservice_skill.field_fsm_person_skill__level_progress
+msgid "Progress from zero knowledge (0%) to fully mastered (100%)."
+msgstr "Прогрес від нульових знань (0%) до повного опанування (100%)."
+
+#. module: fieldservice_skill
+#: model:ir.model.constraint,message:fieldservice_skill.constraint_fsm_person_skill_person_skill_uniq
+msgid "This person already has that skill!"
+msgstr "Ця людина вже має цю навичку!"

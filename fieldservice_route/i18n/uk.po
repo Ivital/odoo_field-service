@@ -299,3 +299,14 @@ msgstr "Час до понаднормових (у годинах)"
 #: model_terms:ir.ui.view,arch_db:fieldservice_route.fsm_route_form
 msgid "orders per day route"
 msgstr "замовлень на денний маршрут"
+
+#. module: fieldservice_route
+#: model:ir.model.fields,help:fieldservice_route.field_fsm_route__max_order
+msgid "Maximum number of orders per day route."
+msgstr "Максимальна кількість замовлень на денний маршрут."
+
+#. module: fieldservice_route
+#: model:ir.model.fields,help:fieldservice_route.field_fsm_route_dayroute__max_order
+msgid "Maximum numbers of orders that can be added to this day route."
+msgstr ""
+"Максимальна кількість замовлень, які можна додати до маршруту цього дня."

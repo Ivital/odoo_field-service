@@ -27,3 +27,8 @@ msgstr "ID замовлення"
 #: model:ir.model.fields,field_description:fieldservice_calendar.field_fsm_team__calendar_user_id
 msgid "Team's calendar"
 msgstr "Календар команди"
+
+#. module: fieldservice_calendar
+#: model:ir.model.fields,help:fieldservice_calendar.field_fsm_team__calendar_user_id
+msgid "Responsible for orders's calendar"
+msgstr "Відповідальний за календар замовлень"

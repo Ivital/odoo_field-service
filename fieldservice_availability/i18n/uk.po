@@ -154,3 +154,38 @@ msgstr "Додайте діапазон часу доставки виїзног
 #: model_terms:ir.actions.act_window,help:fieldservice_availability.action_fsm_stress_days
 msgid "Add a Field Service Stress Day here."
 msgstr "Додайте тут день підвищеного навантаження виїзного обслуговування."
+
+#. module: fieldservice_availability
+#: model:ir.model.constraint,message:fieldservice_availability.constraint_fsm_blackout_day_unique_blackout_day
+msgid "A blackout day with this date already exists!"
+msgstr "День блокування з цією датою вже існує!"
+
+#. module: fieldservice_availability
+#: model:ir.model.constraint,message:fieldservice_availability.constraint_fsm_stress_day_unique_stress_day
+msgid "A stress day with this date already exists!"
+msgstr "День підвищеного навантаження з цією датою вже існує!"
+
+#. module: fieldservice_availability
+#: model:ir.model,name:fieldservice_availability.model_fsm_blackout_group
+msgid "Blackout Group"
+msgstr "Група блокування"
+
+#. module: fieldservice_availability
+#: model:ir.model.fields,help:fieldservice_availability.field_fsm_delivery_time_range__sequence
+msgid "Customize the order of time ranges. Lower numbers are shown first."
+msgstr ""
+"Налаштуйте порядок часових діапазонів. Менші числа відображаються першими."
+
+#. module: fieldservice_availability
+#: model:ir.model,name:fieldservice_availability.model_fsm_stress_day
+msgid "High-Demand Days"
+msgstr "Дні високого попиту"
+
+#. module: fieldservice_availability
+#: model:ir.model.fields,help:fieldservice_availability.field_fsm_delivery_time_range__route_id
+msgid ""
+"Specific route this time range applies to. Leave empty for global time "
+"ranges."
+msgstr ""
+"Конкретний маршрут, до якого застосовується цей часовий діапазон. Залиште "
+"порожнім для глобальних діапазонів."

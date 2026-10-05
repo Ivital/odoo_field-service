@@ -739,3 +739,123 @@ msgstr "Використовувати дні тижня"
 #: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring_template__website_message_ids
 msgid "Website communication history"
 msgstr "Історія комунікації через вебсайт"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__is_exclusive
+msgid ""
+"Checking this box will make this an exclusive rule. Exclusive\n"
+"            rules prevent the configured days from being a schedule option"
+msgstr ""
+"Якщо позначити цей прапорець, правило стане виключним. Виключні\n"
+"            правила не дозволяють використовувати налаштовані дні як варіант розкладу."
+
+#. module: fieldservice_recurring
+#: model:ir.model,name:fieldservice_recurring.model_fsm_frequency_set
+msgid "Frequency Rule Set for Field Service Orders"
+msgstr "Набір правил періодичності для замовлень виїзного обслуговування"
+
+#. module: fieldservice_recurring
+#: model:ir.model,name:fieldservice_recurring.model_fsm_frequency
+msgid "Frequency Rule for Field Service Orders"
+msgstr "Правило періодичності для замовлень виїзного обслуговування"
+
+#. module: fieldservice_recurring
+#: model:res.groups,name:fieldservice_recurring.group_fsm_recurring
+msgid "Manage Recurring Orders"
+msgstr "Керування періодичними замовленнями"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring_template__max_orders
+msgid "Maximium number of orders that will be created"
+msgstr "Максимальна кількість замовлень, які буде створено"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__max_orders
+msgid "Maximum number of orders that will be created"
+msgstr "Максимальна кількість замовлень, які буде створено"
+
+#. module: fieldservice_recurring
+#: model:ir.model,name:fieldservice_recurring.model_fsm_recurring_template
+msgid "Recurring Field Service Order Template"
+msgstr "Шаблон періодичного замовлення виїзного обслуговування"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__end_date
+msgid "Recurring orders will not be made after this date"
+msgstr "Періодичні замовлення не створюватимуться після цієї дати"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__scheduled_duration
+msgid "Scheduled duration of the work in hours"
+msgstr "Запланована тривалість робіт у годинах"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__set_pos
+msgid ""
+"Specify an occurrence number, positive or negative,\n"
+"            corresponding to the nth occurrence of the rule inside\n"
+"            the frequency period. For example, -1 if combined with a\n"
+"            'Monthly' frequency, and a weekday of (MO, TU, WE, TH, FR),\n"
+"            will result in the last work day of every month."
+msgstr ""
+"Укажіть номер входження, додатний або від'ємний,\n"
+"            що відповідає n-му входженню правила в межах\n"
+"            періоду частоти. Наприклад, -1 у поєднанні з\n"
+"            частотою 'Щомісяця' та днем тижня (MO, TU, WE, TH, FR)\n"
+"            означатиме останній робочий день кожного місяця."
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency_set__buffer_late
+msgid ""
+"The allowed number of days after the computed schedule date\n"
+"           that an event can be done"
+msgstr ""
+"Допустима кількість днів після обчисленої запланованої дати,\n"
+"           коли подію ще можна виконати"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency_set__buffer_early
+msgid ""
+"The allowed number of days before the computed schedule date\n"
+"            that an event can be done"
+msgstr ""
+"Допустима кількість днів до обчисленої запланованої дати,\n"
+"            коли подію вже можна виконати"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency_set__schedule_days
+msgid ""
+"The number of days from today that the scheduler will generate\n"
+"            orders for this rule"
+msgstr ""
+"Кількість днів від сьогодні, на яку планувальник створюватиме\n"
+"            замовлення за цим правилом"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__interval
+msgid "The number of intervals between events"
+msgstr "Кількість інтервалів між подіями"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__fsm_order_template_id
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring_template__fsm_order_template_id
+msgid "This is the order template that will be recurring"
+msgstr "Це шаблон замовлення, який повторюватиметься"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__use_byweekday
+msgid ""
+"When selected you will be able to choose which days of the\n"
+"            week the scheduler will include (or exclude if Exclusive rule)"
+msgstr ""
+"Якщо вибрано, ви зможете вказати, які дні\n"
+"            тижня планувальник включатиме (або виключатиме для правила «Виключення»)."
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__use_bymonthday
+msgid ""
+"When selected you will be able to specify which calendar day\n"
+"            of the month the event occurs on"
+msgstr ""
+"Якщо вибрано, можна буде вказати календарний день\n"
+"            місяця, коли відбувається подія"

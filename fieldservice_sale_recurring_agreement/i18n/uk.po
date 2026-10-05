@@ -9,6 +9,12 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. module: fieldservice_sale_recurring_agreement
-#: model:ir.module.module,shortdesc:base.module_fieldservice_sale_recurring_agreement model:ir.module.module,summary:base.module_fieldservice_sale_recurring_agreement
+#: model:ir.module.module,shortdesc:base.module_fieldservice_sale_recurring_agreement
+#: model:ir.module.module,summary:base.module_fieldservice_sale_recurring_agreement
 msgid "Field Service Recurring Agreement"
 msgstr "Періодична угода виїзного сервісу"
+
+#. module: fieldservice_sale_recurring_agreement
+#: model:ir.model,name:fieldservice_sale_recurring_agreement.model_fsm_recurring
+msgid "Recurring Field Service Order"
+msgstr "Періодичне замовлення виїзного обслуговування"

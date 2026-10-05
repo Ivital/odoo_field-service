@@ -127,3 +127,28 @@ msgstr "Це розмір замовлення?"
 #: model:ir.model.fields,field_description:fieldservice_size.field_fsm_order__size_uom_category
 msgid "Unit of Measure Category"
 msgstr "Категорія одиниці виміру"
+
+#. module: fieldservice_size
+#: model:ir.model,name:fieldservice_size.model_fsm_size
+msgid "Field Service Size"
+msgstr "Розмір виїзного обслуговування"
+
+#. module: fieldservice_size
+#: model:ir.model.constraint,message:fieldservice_size.constraint_fsm_location_size_one_size_per_location
+msgid "Only one size of same type allowed per location"
+msgstr "Для одного місця дозволено лише один розмір кожного типу"
+
+#. module: fieldservice_size
+#: model:ir.model,name:fieldservice_size.model_fsm_location_size
+msgid "Size for FSM Location"
+msgstr "Розмір для місця FSM"
+
+#. module: fieldservice_size
+#: model:ir.model.constraint,message:fieldservice_size.constraint_fsm_size_name_uniq
+msgid "Size name already exists!"
+msgstr "Назва розміру вже існує!"
+
+#. module: fieldservice_size
+#: model:ir.model.fields,help:fieldservice_size.field_fsm_size__is_order_size
+msgid "The default size for orders of this type"
+msgstr "Типовий розмір замовлень цього типу"

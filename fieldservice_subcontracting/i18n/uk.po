@@ -165,3 +165,48 @@ msgstr "FSO: оновити доставлену кількість субпід
 #: model:ir.model.fields,field_description:fieldservice_subcontracting.field_fsm_template__subcontract_product_id
 msgid "Subcontracting Service Product"
 msgstr "Товар-послуга субпідряду"
+
+#. module: fieldservice_subcontracting
+#: model:ir.model,name:fieldservice_subcontracting.model_fsm_order_cancel_confirm
+msgid "Confirm FSO Cancellation with PO Cancellation"
+msgstr "Підтвердити скасування FSO разом зі скасуванням PO"
+
+#. module: fieldservice_subcontracting
+#: model:ir.model,name:fieldservice_subcontracting.model_fsm_order_reassign_confirm
+msgid "Confirm FSO Worker Reassignment with PO Cancellation"
+msgstr "Підтвердити перепризначення працівника FSO зі скасуванням PO"
+
+#. module: fieldservice_subcontracting
+#: model:ir.model.fields,help:fieldservice_subcontracting.field_fsm_order__reassign_worker
+msgid "Determine if a worker reassignment can be performed."
+msgstr "Визначає, чи можна виконати перепризначення працівника."
+
+#. module: fieldservice_subcontracting
+#: model:ir.model.fields,help:fieldservice_subcontracting.field_fsm_order__purchase_order_ids
+msgid ""
+"Purchase Order auto-created when this FSO was assigned to a subcontractor "
+"worker."
+msgstr ""
+"Замовлення на закупівлю, автоматично створене після призначення цього FSO "
+"працівнику-субпідряднику."
+
+#. module: fieldservice_subcontracting
+#: model:ir.model.fields,help:fieldservice_subcontracting.field_fsm_template__subcontract_product_id
+msgid ""
+"Service product used on the Purchase Order line when an FSO of this type is "
+"subcontracted to an external worker. The product should have invoicing "
+"policy 'Based on Received Quantities' and supplierinfo configured for each "
+"vendor."
+msgstr ""
+"Сервісний товар, що використовується в рядку замовлення на закупівлю, коли "
+"FSO цього типу передається на субпідряд зовнішньому працівнику. Для товару "
+"має бути встановлена політика виставлення рахунків 'На основі отриманої "
+"кількості' та налаштована інформація постачальника для кожного "
+"постачальника."
+
+#. module: fieldservice_subcontracting
+#: model:ir.model.fields,help:fieldservice_subcontracting.field_purchase_order__fsm_order_id
+msgid "The Field Service Order that generated this Purchase Order."
+msgstr ""
+"Замовлення польового обслуговування, яке створило це замовлення на "
+"закупівлю."

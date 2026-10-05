@@ -167,3 +167,32 @@ msgstr "Пов’язане обладнання обслуговування"
 #: model:ir.model.fields,field_description:fieldservice_maintenance.field_fsm_equipment__warranty_date
 msgid "Warranty Expiration Date"
 msgstr "Дата завершення гарантії"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,help:fieldservice_maintenance.field_fsm_equipment__estimated_next_failure
+msgid "Computed as Latest Failure Date + MTBF"
+msgstr "Розраховується як остання дата відмови + MTBF"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,help:fieldservice_maintenance.field_fsm_equipment__expected_mtbf
+msgid "Expected Mean Time Between Failure"
+msgstr "Очікуваний середній час між відмовами"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,help:fieldservice_maintenance.field_fsm_equipment__mtbf
+msgid ""
+"Mean Time Between Failure, computed based on done corrective maintenances."
+msgstr ""
+"Середній час між відмовами, обчислений на основі завершених коригувальних "
+"техобслуговувань."
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,help:fieldservice_maintenance.field_fsm_equipment__mttr
+msgid "Mean Time To Repair"
+msgstr "Середній час ремонту"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,help:fieldservice_maintenance.field_fsm_equipment__effective_date
+msgid "This date will be used to compute the Mean Time Between Failure."
+msgstr ""
+"Ця дата використовуватиметься для обчислення середнього часу між відмовами."

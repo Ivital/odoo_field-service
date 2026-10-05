@@ -81,3 +81,18 @@ msgstr "Додайте транспортний засіб виїзного об
 #: model:ir.actions.act_window,name:fieldservice_vehicle.action_fsm_vehicle
 msgid "Field Service Vehicles"
 msgstr "Транспортні засоби виїзного обслуговування"
+
+#. module: fieldservice_vehicle
+#: model:ir.model,name:fieldservice_vehicle.model_fsm_vehicle
+msgid "Field Service Vehicle"
+msgstr "Транспорт виїзного обслуговування"
+
+#. module: fieldservice_vehicle
+#: model:res.groups,name:fieldservice_vehicle.group_fsm_vehicle
+msgid "Manage Vehicles"
+msgstr "Керування транспортними засобами"
+
+#. module: fieldservice_vehicle
+#: model:ir.model.constraint,message:fieldservice_vehicle.constraint_fsm_vehicle_name_uniq
+msgid "Vehicle name already exists!"
+msgstr "Назва транспортного засобу вже існує!"

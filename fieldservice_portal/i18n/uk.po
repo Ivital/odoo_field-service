@@ -157,3 +157,17 @@ msgstr "Переглянути ваші замовлення виїзного о
 #: model:ir.model.fields,field_description:fieldservice_portal.field_fsm_stage__portal_visible
 msgid "Visible in Portal"
 msgstr "Видимий на порталі"
+
+#. module: fieldservice_portal
+#: model:ir.model.fields,help:fieldservice_portal.field_fsm_stage__portal_visible
+msgid ""
+"Enable to display field service orders based on it's stage in the portal"
+msgstr ""
+"Увімкніть відображення замовлень виїзного сервісу на порталі залежно від їх "
+"етапу"
+
+#. module: fieldservice_portal
+#. odoo-python
+#: code:addons/fieldservice_portal/controllers/fsm_order_portal.py:0
+msgid "Newest"
+msgstr "Найновіші"

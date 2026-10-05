@@ -122,3 +122,8 @@ msgstr "Останнє оновлення"
 #: model:ir.model.fields,field_description:fieldservice_activity.field_fsm_order__order_activity_ids
 msgid "Order Activities"
 msgstr "Дії замовлення"
+
+#. module: fieldservice_activity
+#: model:ir.model,name:fieldservice_activity.model_fsm_activity
+msgid "Field Service Activity"
+msgstr "Діяльність виїзного обслуговування"

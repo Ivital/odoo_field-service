@@ -636,3 +636,94 @@ msgstr "Опис транспортного засобу"
 #: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__website_message_ids
 msgid "Website communication history"
 msgstr "Історія комунікації через вебсайт"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__co2
+msgid "CO2 emissions of the vehicle"
+msgstr "Викиди CO2 транспортного засобу"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__color
+msgid "Color of the vehicle"
+msgstr "Колір транспортного засобу"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__state_id
+msgid "Current state of the vehicle"
+msgstr "Поточний стан транспортного засобу"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__acquisition_date
+msgid "Date of vehicle registration"
+msgstr "Дата реєстрації транспортного засобу"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__write_off_date
+msgid "Date when the vehicle's license plate has been cancelled/removed."
+msgstr "Дата анулювання/зняття номерного знака транспортного засобу."
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__driver_id
+msgid "Driver address of the vehicle"
+msgstr "Адреса водія транспортного засобу"
+
+#. module: fieldservice_fleet
+#: model:ir.model,name:fieldservice_fleet.model_fsm_fleet_wizard
+msgid "FSM Fleet Vehicle Conversion"
+msgstr "Перетворення транспортного засобу FSM"
+
+#. module: fieldservice_fleet
+#: model:ir.model.constraint,message:fieldservice_fleet.constraint_fsm_vehicle_fsm_vehicle_fleet_uniq
+msgid "FSM vehicle can only be linked to one fleet vehicle"
+msgstr ""
+"Транспорт FSM може бути пов’язаний лише з одним транспортним засобом "
+"автопарку"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__license_plate
+msgid "License plate number of the vehicle (i = plate number for a car)"
+msgstr "Номерний знак транспортного засобу (тобто номерний знак автомобіля)"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__location
+msgid "Location of the vehicle (garage, ...)"
+msgstr "Місцезнаходження транспортного засобу (гараж тощо)"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__future_driver_id
+msgid "Next Driver Address of the vehicle"
+msgstr "Наступна адреса водія транспортного засобу"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__doors
+msgid "Number of doors of the vehicle"
+msgstr "Кількість дверей транспортного засобу"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__seats
+msgid "Number of seats of the vehicle"
+msgstr "Кількість місць у транспортному засобі"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__power
+msgid "Power in kW of the vehicle"
+msgstr "Потужність транспортного засобу в кВт"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__next_assignation_date
+msgid ""
+"This is the date at which the car will be available, if not set it means "
+"available instantly"
+msgstr ""
+"Дата, коли автомобіль буде доступний; якщо не задано, він доступний негайно"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__vin_sn
+msgid "Unique number written on the vehicle motor (VIN/SN number)"
+msgstr ""
+"Унікальний номер, нанесений на двигун транспортного засобу (номер VIN/SN)"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__model_year
+msgid "Year of the model"
+msgstr "Рік моделі"
