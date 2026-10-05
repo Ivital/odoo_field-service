@@ -101,3 +101,59 @@ msgstr "Робочі замовлення"
 #: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_my_fsm_orders
 msgid "Work Orders for"
 msgstr "Замовлення на роботи для"
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_fieldservice_order_page
+msgid ""
+"<br/>\n"
+"                                <strong>Arrival On Site:</strong>"
+msgstr ""
+"<br/>\n"
+"                                <strong>Прибуття на місце:</strong>"
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_fieldservice_order_page
+msgid ""
+"<br/>\n"
+"                                <strong>City:</strong>"
+msgstr ""
+"<br/>\n"
+"                                <strong>Місто:</strong>"
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_fieldservice_order_page
+msgid ""
+"<br/>\n"
+"                                <strong>Country:</strong>"
+msgstr ""
+"<br/>\n"
+"                                <strong>Країна:</strong>"
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_fieldservice_order_page
+msgid ""
+"<br/>\n"
+"                                <strong>Work Type:</strong>"
+msgstr ""
+"<br/>\n"
+"                                <strong>Тип робіт:</strong>"
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_fieldservice_order_page
+msgid "<strong>Stage:</strong>"
+msgstr "<strong>Етап:</strong>"
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_my_fsm_orders
+msgid "There are no Work Orders in your account."
+msgstr "У вашому обліковому записі немає робочих замовлень."
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_my_home_fsm_order
+msgid "View your fieldservice orders"
+msgstr "Переглянути ваші замовлення виїзного обслуговування"
+
+#. module: fieldservice_portal
+#: model:ir.model.fields,field_description:fieldservice_portal.field_fsm_stage__portal_visible
+msgid "Visible in Portal"
+msgstr "Видимий на порталі"

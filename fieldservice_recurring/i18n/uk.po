@@ -587,3 +587,155 @@ msgstr "Щотижня"
 #: model:ir.model.fields.selection,name:fieldservice_recurring.selection__fsm_frequency__interval_type__yearly
 msgid "Yearly"
 msgstr "Щороку"
+
+#. module: fieldservice_recurring
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.view_fsm_order_form
+msgid "<span class=\"o_stat_text\">Recurring Order</span>"
+msgstr "<span class=\"o_stat_text\">Повторюване замовлення</span>"
+
+#. module: fieldservice_recurring
+#: model_terms:ir.actions.act_window,help:fieldservice_recurring.action_fsm_recurring
+msgid "Add a Field Service Recurring Orders here."
+msgstr "Додайте повторюване замовлення виїзного обслуговування тут."
+
+#. module: fieldservice_recurring
+#: model_terms:ir.actions.act_window,help:fieldservice_recurring.action_fsm_recurring_template
+msgid "Add a Field Service Recurring Template here."
+msgstr "Додайте повторюваний шаблон виїзного обслуговування тут."
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__schedule_days
+msgid "Days Ahead to Schedule"
+msgstr "Днів наперед для планування"
+
+#. module: fieldservice_recurring
+#: model_terms:ir.actions.act_window,help:fieldservice_recurring.action_fsm_frequency_set
+msgid "Define a Frequency Rule Set for scheduling recurring orders here."
+msgstr "Визначте набір правил частоти для планування повторюваних замовлень."
+
+#. module: fieldservice_recurring
+#: model_terms:ir.actions.act_window,help:fieldservice_recurring.action_fsm_frequency
+msgid "Define a Frequency for scheduling recurring orders here."
+msgstr "Визначте частоту для планування повторюваних замовлень."
+
+#. module: fieldservice_recurring
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_recurring_search_view
+msgid "FSM Recurring Order Name"
+msgstr "Назва повторюваного замовлення FSM"
+
+#. module: fieldservice_recurring
+#: model:ir.actions.act_window,name:fieldservice_recurring.action_fsm_frequency
+msgid "Field Service Frequencies"
+msgstr "Частоти виїзного обслуговування"
+
+#. module: fieldservice_recurring
+#: model:ir.actions.act_window,name:fieldservice_recurring.action_fsm_frequency_set
+msgid "Field Service Frequency Rule Sets"
+msgstr "Набори правил частоти виїзного обслуговування"
+
+#. module: fieldservice_recurring
+#: model:ir.actions.act_window,name:fieldservice_recurring.action_fsm_recurring
+msgid "Field Service Recurring Orders"
+msgstr "Повторювані замовлення виїзного обслуговування"
+
+#. module: fieldservice_recurring
+#: model:ir.actions.act_window,name:fieldservice_recurring.action_fsm_recurring_template
+msgid "Field Service Recurring Templates"
+msgstr "Повторювані шаблони виїзного обслуговування"
+
+#. module: fieldservice_recurring
+#: model:ir.actions.server,name:fieldservice_recurring.recurring_orders_cron_ir_actions_server
+msgid "Field Service: generate recurring orders"
+msgstr "Виїзне обслуговування: створити повторювані замовлення"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__activity_type_icon
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr "Піктограма Font Awesome, наприклад fa-tasks"
+
+#. module: fieldservice_recurring
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_frequency_set_form_view
+msgid "Frequency Rule Set Name"
+msgstr "Назва набору правил частоти"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__activity_exception_icon
+msgid "Icon to indicate an exception activity."
+msgstr "Піктограма для позначення дії-винятку."
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__message_needaction
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency_set__message_needaction
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__message_needaction
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring_template__message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "Якщо позначено, нові повідомлення потребують вашої уваги."
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__message_has_error
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__message_has_sms_error
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency_set__message_has_error
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency_set__message_has_sms_error
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__message_has_error
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__message_has_sms_error
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring_template__message_has_error
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring_template__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr "Якщо позначено, деякі повідомлення мають помилку доставки."
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__message_needaction_counter
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency_set__message_needaction_counter
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__message_needaction_counter
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring_template__message_needaction_counter
+msgid "Number of messages requiring action"
+msgstr "Кількість повідомлень, що потребують дії"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__message_has_error_counter
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency_set__message_has_error_counter
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__message_has_error_counter
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring_template__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr "Кількість повідомлень із помилкою доставки"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_team__recurring_draft_count
+msgid "Recurring in draft"
+msgstr "Повторюваний у чернетці"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__activity_state
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+"Стан на основі дій\n"
+"Прострочено: строк уже минув\n"
+"Сьогодні: дата дії — сьогодні\n"
+"Заплановано: майбутні дії."
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__activity_exception_decoration
+msgid "Type of the exception activity on record."
+msgstr "Тип дії-винятку для запису."
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__use_bymonthday
+msgid "Use Day of Month"
+msgstr "Використовувати день місяця"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__use_byweekday
+msgid "Use Days of Week"
+msgstr "Використовувати дні тижня"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency__website_message_ids
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_frequency_set__website_message_ids
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring__website_message_ids
+#: model:ir.model.fields,help:fieldservice_recurring.field_fsm_recurring_template__website_message_ids
+msgid "Website communication history"
+msgstr "Історія комунікації через вебсайт"

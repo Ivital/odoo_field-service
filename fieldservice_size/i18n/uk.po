@@ -98,3 +98,32 @@ msgstr "Розміри місць"
 #: model:ir.model.fields,field_description:fieldservice_size.field_fsm_size__uom_id
 msgid "Unit of Measure"
 msgstr "Одиниця вимірювання"
+
+#. module: fieldservice_size
+#: model_terms:ir.actions.act_window,help:fieldservice_size.action_fsm_size
+msgid "Configure a Field Service Size here."
+msgstr "Налаштуйте тут розмір виїзного обслуговування."
+
+#. module: fieldservice_size
+#: model:ir.model.fields,help:fieldservice_size.field_fsm_order__size_uom_category
+msgid ""
+"Conversion between Units of Measure can only occur if they belong to the "
+"same category. The conversion will be made based on the ratios."
+msgstr ""
+"Перетворення між одиницями вимірювання можливе лише тоді, коли вони належать"
+" до однієї категорії. Перетворення виконується на основі коефіцієнтів."
+
+#. module: fieldservice_size
+#: model:ir.actions.act_window,name:fieldservice_size.action_fsm_size
+msgid "Field Service Sizes"
+msgstr "Розміри польового обслуговування"
+
+#. module: fieldservice_size
+#: model:ir.model.fields,field_description:fieldservice_size.field_fsm_size__is_order_size
+msgid "Is the Order Size?"
+msgstr "Це розмір замовлення?"
+
+#. module: fieldservice_size
+#: model:ir.model.fields,field_description:fieldservice_size.field_fsm_order__size_uom_category
+msgid "Unit of Measure Category"
+msgstr "Категорія одиниці виміру"

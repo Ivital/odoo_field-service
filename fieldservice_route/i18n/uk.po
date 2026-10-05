@@ -254,3 +254,48 @@ msgstr "День маршруту"
 #: model:ir.model.fields,field_description:fieldservice_route.field_fsm_route_dayroute__start_location_id
 msgid "Start Location"
 msgstr "Початкове місце"
+
+#. module: fieldservice_route
+#: model_terms:ir.actions.act_window,help:fieldservice_route.action_fsm_route_dayroute
+msgid "Add Day Routes here."
+msgstr "Додайте денні маршрути тут."
+
+#. module: fieldservice_route
+#: model:ir.model.fields,field_description:fieldservice_route.field_fsm_route_dayroute__order_remaining
+msgid "Available Capacity"
+msgstr "Доступна місткість"
+
+#. module: fieldservice_route
+#: model_terms:ir.actions.act_window,help:fieldservice_route.action_fsm_route_day
+msgid "Create a Route Day."
+msgstr "Створити день маршруту."
+
+#. module: fieldservice_route
+#: model_terms:ir.actions.act_window,help:fieldservice_route.action_fsm_route_dayroute_report
+msgid "Day Routes Report"
+msgstr "Звіт про денні маршрути"
+
+#. module: fieldservice_route
+#: model:ir.model.fields,field_description:fieldservice_route.field_fsm_route_dayroute__max_allow_time
+msgid "Maximal Allowable Time (in hours)"
+msgstr "Максимально допустимий час (у годинах)"
+
+#. module: fieldservice_route
+#: model:ir.model.fields,field_description:fieldservice_route.field_fsm_route_dayroute__order_count
+msgid "Number of Orders"
+msgstr "Кількість замовлень"
+
+#. module: fieldservice_route
+#: model:ir.model.fields,field_description:fieldservice_route.field_fsm_route_dayroute__date_start_planned
+msgid "Planned Start Time"
+msgstr "Запланований час початку"
+
+#. module: fieldservice_route
+#: model:ir.model.fields,field_description:fieldservice_route.field_fsm_route_dayroute__work_time
+msgid "Time before overtime (in hours)"
+msgstr "Час до понаднормових (у годинах)"
+
+#. module: fieldservice_route
+#: model_terms:ir.ui.view,arch_db:fieldservice_route.fsm_route_form
+msgid "orders per day route"
+msgstr "замовлень на денний маршрут"

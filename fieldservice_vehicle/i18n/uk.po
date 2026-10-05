@@ -71,3 +71,13 @@ msgstr "Останнє оновлення"
 #: model_terms:ir.actions.act_window,help:fieldservice_vehicle.action_fsm_report_vehicle
 msgid "Vehicles Report"
 msgstr "Звіт про транспортні засоби"
+
+#. module: fieldservice_vehicle
+#: model_terms:ir.actions.act_window,help:fieldservice_vehicle.action_fsm_vehicle
+msgid "Add a Field Service Vehicle here."
+msgstr "Додайте транспортний засіб виїзного обслуговування тут."
+
+#. module: fieldservice_vehicle
+#: model:ir.actions.act_window,name:fieldservice_vehicle.action_fsm_vehicle
+msgid "Field Service Vehicles"
+msgstr "Транспортні засоби виїзного обслуговування"

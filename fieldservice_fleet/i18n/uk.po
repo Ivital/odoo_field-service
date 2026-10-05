@@ -488,3 +488,151 @@ msgstr "Тип транспортного засобу"
 #: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__website_message_ids
 msgid "Website Messages"
 msgstr "Повідомлення вебсайту"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__write_off_date
+msgid "Cancellation Date"
+msgstr "Дата скасування"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__car_value
+msgid "Catalog Value (VAT Incl.)"
+msgstr "Значення каталогу (з ПДВ)"
+
+#. module: fieldservice_fleet
+#: model_terms:ir.ui.view,arch_db:fieldservice_fleet.vehicle_wizard_view
+msgid "Convert this vehicle record into a Field Service Vehicle."
+msgstr "Перетворити цей транспортний засіб на транспорт FSM."
+
+#. module: fieldservice_fleet
+#: model:ir.actions.act_window,name:fieldservice_fleet.vehicle_fsm_action
+msgid "Convert to FSM Vehicle"
+msgstr "Перетворити на транспорт FSM"
+
+#. module: fieldservice_fleet
+#: model_terms:ir.ui.view,arch_db:fieldservice_fleet.vehicle_wizard_view
+msgid "Convert to a Field Service Vehicle"
+msgstr "Перетворити на транспортний засіб виїзного обслуговування"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__driver_employee_id
+msgid "Driver (Employee)"
+msgstr "Водій (працівник)"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__history_count
+msgid "Drivers History Count"
+msgstr "Кількість записів історії водіїв"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__electric_assistance
+msgid "Electric Assistance"
+msgstr "Електрична допомога"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__activity_type_icon
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr "Піктограма Font Awesome, наприклад fa-tasks"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__future_driver_employee_id
+msgid "Future Driver (Employee)"
+msgstr "Майбутній водій (працівник)"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__contract_renewal_overdue
+msgid "Has Contracts Overdue"
+msgstr "Є прострочені договори"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__contract_renewal_due_soon
+msgid "Has Contracts to renew"
+msgstr "Є договори для поновлення"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__horsepower_tax
+msgid "Horsepower Taxation"
+msgstr "Оподаткування кінських сил"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__activity_exception_icon
+msgid "Icon to indicate an exception activity."
+msgstr "Піктограма для позначення дії-винятку."
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "Якщо позначено, нові повідомлення потребують вашої уваги."
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__message_has_error
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr "Якщо позначено, деякі повідомлення мають помилку доставки."
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__contract_state
+msgid "Last Contract State"
+msgstr "Останній стан договору"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__message_needaction_counter
+msgid "Number of messages requiring action"
+msgstr "Кількість повідомлень, що потребують дії"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr "Кількість повідомлень із помилкою доставки"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__odometer
+msgid "Odometer measure of the vehicle at the moment of this log"
+msgstr "Показник одометра транспортного засобу на момент цього запису"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__acquisition_date
+msgid "Registration Date"
+msgstr "Дата реєстрації"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__service_activity
+msgid "Service Activity"
+msgstr "Сервісна активність"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__activity_state
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+"Стан на основі дій\n"
+"Прострочено: строк уже минув\n"
+"Сьогодні: дата дії — сьогодні\n"
+"Заплановано: майбутні дії."
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__country_code
+msgid ""
+"The ISO country code in two chars. \n"
+"You can use this field for quick search."
+msgstr ""
+"Код країни ISO у двох символах.\n"
+"Ви можете використовувати це поле для швидкого пошуку."
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__activity_exception_decoration
+msgid "Type of the exception activity on record."
+msgstr "Тип дії-винятку для запису."
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,field_description:fieldservice_fleet.field_fsm_vehicle__description
+msgid "Vehicle Description"
+msgstr "Опис транспортного засобу"
+
+#. module: fieldservice_fleet
+#: model:ir.model.fields,help:fieldservice_fleet.field_fsm_vehicle__website_message_ids
+msgid "Website communication history"
+msgstr "Історія комунікації через вебсайт"

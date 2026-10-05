@@ -51,3 +51,14 @@ msgstr "Повторюване замовлення"
 #: code:addons/fieldservice_sale_recurring/models/fsm_recurring.py:0
 msgid "Sales Orders"
 msgstr "Замовлення на продаж"
+
+#. module: fieldservice_sale_recurring
+#: model:ir.model.fields.selection,name:fieldservice_sale_recurring.selection__product_template__field_service_tracking__recurring
+msgid "Create a recurring order"
+msgstr "Створити повторюване замовлення"
+
+#. module: fieldservice_sale_recurring
+#: model:ir.model.fields,field_description:fieldservice_sale_recurring.field_sale_order__fsm_recurring_ids
+msgid "Field Service Recurring orders associated to this sale"
+msgstr ""
+"Повторювані замовлення виїзного обслуговування, пов’язані з цим продажем"

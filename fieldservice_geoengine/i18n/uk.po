@@ -91,3 +91,8 @@ msgstr "Вулиця:"
 #: model:ir.model,name:fieldservice_geoengine.model_geoengine_vector_layer
 msgid "Vector Layer"
 msgstr "Векторний шар"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.fsm_location_form_view
+msgid "&amp;nbsp;Update Latitude and Longitude details accordingly!"
+msgstr "&amp;nbsp;Оновити дані широти та довготи відповідно!"

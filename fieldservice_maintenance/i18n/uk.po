@@ -127,3 +127,43 @@ msgstr "Серійний номер"
 #: model:ir.model.fields,field_description:fieldservice_maintenance.field_fsm_equipment__partner_ref
 msgid "Vendor Reference"
 msgstr "Посилання постачальника"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,field_description:fieldservice_maintenance.field_fsm_equipment__department_id
+msgid "Assigned Department"
+msgstr "Призначений відділ"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,field_description:fieldservice_maintenance.field_fsm_equipment__employee_id
+msgid "Assigned Employee"
+msgstr "Призначений працівник"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,field_description:fieldservice_maintenance.field_fsm_equipment__maintenance_open_count
+msgid "Current Maintenance"
+msgstr "Поточне обслуговування"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,field_description:fieldservice_maintenance.field_fsm_equipment__estimated_next_failure
+msgid "Estimated time before next failure (in days)"
+msgstr "Орієнтовний час до наступної відмови (дні)"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,field_description:fieldservice_maintenance.field_fsm_equipment__latest_failure_date
+msgid "Latest Failure Date"
+msgstr "Дата останньої невдачі"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,field_description:fieldservice_maintenance.field_fsm_equipment__maintenance_count
+msgid "Maintenance Count"
+msgstr "Кількість обслуговувань"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,field_description:fieldservice_maintenance.field_fsm_equipment__maintenance_equipment_id
+msgid "Related Maintenance Equipment"
+msgstr "Пов’язане обладнання обслуговування"
+
+#. module: fieldservice_maintenance
+#: model:ir.model.fields,field_description:fieldservice_maintenance.field_fsm_equipment__warranty_date
+msgid "Warranty Expiration Date"
+msgstr "Дата завершення гарантії"

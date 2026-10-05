@@ -27,3 +27,18 @@ msgstr "Гарантійний період"
 #: model:ir.model.fields,field_description:fieldservice_equipment_warranty.field_fsm_equipment__product_warranty_type
 msgid "Warranty Type"
 msgstr "Тип гарантії"
+
+#. module: fieldservice_equipment_warranty
+#: model_terms:ir.ui.view,arch_db:fieldservice_equipment_warranty.fsm_equipment_form_view_stock
+msgid "Product Warranty"
+msgstr "Гарантія товару"
+
+#. module: fieldservice_equipment_warranty
+#: model:ir.model.fields,field_description:fieldservice_equipment_warranty.field_fsm_equipment__warranty_end_date
+msgid "Warranty End Date"
+msgstr "Дата завершення гарантії"
+
+#. module: fieldservice_equipment_warranty
+#: model:ir.model.fields,field_description:fieldservice_equipment_warranty.field_fsm_equipment__warranty_start_date
+msgid "Warranty Start Date"
+msgstr "Дата початку гарантії"
