@@ -1,0 +1,332 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-10-05 05:39+0000\n"
+"Last-Translator: Ivital <Ivital@users.noreply.github.com>\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__active
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__active
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__active
+msgid "Active"
+msgstr "Активний"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__activity_ids
+msgid "Activities"
+msgstr "Дії"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__apr
+msgid "April"
+msgstr "Квітень"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__person_id
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_recurring_search_view
+msgid "Assigned To"
+msgstr "Призначено"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__aug
+msgid "August"
+msgstr "Серпень"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__set_pos
+msgid "By Position"
+msgstr "За позицією"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields.selection,name:fieldservice_recurring.selection__fsm_recurring__state__close
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_recurring_search_view
+msgid "Closed"
+msgstr "Закрито"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__company_id
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__company_id
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__company_id
+msgid "Company"
+msgstr "Компанія"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__create_uid
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__create_uid
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__create_uid
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__create_uid
+msgid "Created by"
+msgstr "Створив"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__create_date
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__create_date
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__create_date
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__create_date
+msgid "Created on"
+msgstr "Створено"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields.selection,name:fieldservice_recurring.selection__fsm_frequency__interval_type__daily
+msgid "Daily"
+msgstr "Щоденно"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__month_day
+msgid "Day of Month"
+msgstr "День місяця"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__dec
+msgid "December"
+msgstr "Грудень"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__description
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__description
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_recurring_form_view
+msgid "Description"
+msgstr "Опис"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__display_name
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__display_name
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__display_name
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__display_name
+msgid "Display Name"
+msgstr "Відображувана назва"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__end_date
+msgid "End Date"
+msgstr "Дата завершення"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__equipment_ids
+msgid "Equipment"
+msgstr "Обладнання"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__feb
+msgid "February"
+msgstr "Лютий"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__message_follower_ids
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__message_follower_ids
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__message_follower_ids
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__message_follower_ids
+msgid "Followers"
+msgstr "Підписники"
+
+#. module: fieldservice_recurring
+#: model:ir.ui.menu,name:fieldservice_recurring.menu_fsm_frequency
+msgid "Frequencies"
+msgstr "Частоти"
+
+#. module: fieldservice_recurring
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_frequency_form_view
+msgid "Frequency"
+msgstr "Частота"
+
+#. module: fieldservice_recurring
+#: model:ir.ui.menu,name:fieldservice_recurring.menu_fsm_frequency_set
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_frequency_set_form_view
+msgid "Frequency Rule Set"
+msgstr "Набір правил частоти"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__fr
+msgid "Friday"
+msgstr "П’ятниця"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__has_message
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__has_message
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__has_message
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__has_message
+msgid "Has Message"
+msgstr "Має повідомлення"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__activity_exception_icon
+msgid "Icon"
+msgstr "Іконка"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__message_is_follower
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__message_is_follower
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__message_is_follower
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__message_is_follower
+msgid "Is Follower"
+msgstr "Є підписником"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__jan
+msgid "January"
+msgstr "Січень"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__jul
+msgid "July"
+msgstr "Липень"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__jun
+msgid "June"
+msgstr "Червень"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__buffer_late
+msgid "Late Buffer"
+msgstr "Буфер запізнення"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__location_id
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_recurring_search_view
+msgid "Location"
+msgstr "Розташування"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__mar
+msgid "March"
+msgstr "Березень"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__may
+msgid "May"
+msgstr "Травень"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__message_ids
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__message_ids
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__message_ids
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__message_ids
+msgid "Messages"
+msgstr "Повідомлення"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__mo
+msgid "Monday"
+msgstr "Понеділок"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__name
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__name
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__name
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__name
+msgid "Name"
+msgstr "Назва"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__nov
+msgid "November"
+msgstr "Листопад"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__oct
+msgid "October"
+msgstr "Жовтень"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__fsm_order_ids
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_recurring_form_view
+msgid "Orders"
+msgstr "Замовлення"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__fsm_order_count
+msgid "Orders Count"
+msgstr "Кількість замовлень"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__rating_ids
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency_set__rating_ids
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__rating_ids
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring_template__rating_ids
+msgid "Ratings"
+msgstr "Рейтинги"
+
+#. module: fieldservice_recurring
+#: model:ir.actions.act_window,name:fieldservice_recurring.action_recurring_list
+#: model:ir.ui.menu,name:fieldservice_recurring.menu_fsm_recurring
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_recurring_search_view
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.view_team_kanban_recurring
+msgid "Recurring Orders"
+msgstr "Повторювані замовлення"
+
+#. module: fieldservice_recurring
+#: model:ir.ui.menu,name:fieldservice_recurring.menu_fsm_recurring_templates
+msgid "Recurring Templates"
+msgstr "Повторювані шаблони"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__interval
+msgid "Repeat Every"
+msgstr "Повторювати кожні"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__sa
+msgid "Saturday"
+msgstr "Субота"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__sep
+msgid "September"
+msgstr "Вересень"
+
+#. module: fieldservice_recurring
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_recurring_form_view
+msgid "Start"
+msgstr "Почати"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__start_date
+msgid "Start Date"
+msgstr "Дата початку"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__state
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_recurring_search_view
+msgid "State"
+msgstr "Стан"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__su
+msgid "Sunday"
+msgstr "Неділя"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_recurring__team_id
+#: model_terms:ir.ui.view,arch_db:fieldservice_recurring.fsm_recurring_search_view
+msgid "Team"
+msgstr "Команда"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__th
+msgid "Thursday"
+msgstr "Четвер"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__tu
+msgid "Tuesday"
+msgstr "Вівторок"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__use_bymonth
+msgid "Use Months"
+msgstr "Використовувати місяці"
+
+#. module: fieldservice_recurring
+#: model:ir.model.fields,field_description:fieldservice_recurring.field_fsm_frequency__we
+msgid "Wednesday"
+msgstr "Середа"
