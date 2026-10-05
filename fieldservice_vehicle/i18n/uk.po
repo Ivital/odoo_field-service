@@ -46,3 +46,28 @@ msgstr "Транспортний засіб"
 #: model_terms:ir.ui.view,arch_db:fieldservice_vehicle.fsm_vehicle_pivot_view
 msgid "Vehicles"
 msgstr "Транспортні засоби"
+
+#. module: fieldservice_vehicle
+#: model:ir.model.fields,field_description:fieldservice_vehicle.field_fsm_vehicle__person_id
+msgid "Assigned Driver"
+msgstr "Призначений водій"
+
+#. module: fieldservice_vehicle
+#: model:ir.model.fields,field_description:fieldservice_vehicle.field_fsm_person__vehicle_id
+msgid "Default Vehicle"
+msgstr "Типовий транспортний засіб"
+
+#. module: fieldservice_vehicle
+#: model:ir.model.fields,field_description:fieldservice_vehicle.field_fsm_vehicle__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: fieldservice_vehicle
+#: model:ir.model.fields,field_description:fieldservice_vehicle.field_fsm_vehicle__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: fieldservice_vehicle
+#: model_terms:ir.actions.act_window,help:fieldservice_vehicle.action_fsm_report_vehicle
+msgid "Vehicles Report"
+msgstr "Звіт про транспортні засоби"

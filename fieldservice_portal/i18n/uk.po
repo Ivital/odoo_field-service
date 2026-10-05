@@ -74,3 +74,30 @@ msgstr "Заявка"
 #: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_my_fsm_orders
 msgid "Type"
 msgstr "Тип"
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_fieldservice_order_page
+msgid "<strong>Location:</strong>"
+msgstr "<strong>Місце:</strong>"
+
+#. module: fieldservice_portal
+#. odoo-python
+#: code:addons/fieldservice_portal/controllers/fsm_order_portal.py:0
+msgid "None"
+msgstr "Немає"
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_fieldservice_order_page
+msgid "Not started yet"
+msgstr "Ще не розпочато"
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_breadcrumbs
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_my_fsm_orders
+msgid "Work Orders"
+msgstr "Робочі замовлення"
+
+#. module: fieldservice_portal
+#: model_terms:ir.ui.view,arch_db:fieldservice_portal.portal_my_fsm_orders
+msgid "Work Orders for"
+msgstr "Замовлення на роботи для"

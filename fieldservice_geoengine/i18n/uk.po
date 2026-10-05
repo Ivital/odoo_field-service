@@ -28,3 +28,66 @@ msgstr "Колір етапу"
 #: model:ir.model.fields,field_description:fieldservice_geoengine.field_fsm_location__stage_name
 msgid "Stage Name"
 msgstr "Назва етапу"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
+msgid "City:"
+msgstr "Місто:"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
+msgid "Country:"
+msgstr "Країна:"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.fsm_order_form
+msgid "GeoCode Location"
+msgstr "Геокодувати місце"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.fsm_order_form
+msgid "Map"
+msgstr "Карта"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
+msgid "Mobile:"
+msgstr "Мобільний:"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
+msgid "Name:"
+msgstr "Назва:"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
+msgid "Phone:"
+msgstr "Телефон:"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
+msgid "State:"
+msgstr "Стан:"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
+msgid "Street 2:"
+msgstr "Вулиця 2:"
+
+#. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
+msgid "Street:"
+msgstr "Вулиця:"
+
+#. module: fieldservice_geoengine
+#: model:ir.model,name:fieldservice_geoengine.model_geoengine_vector_layer
+msgid "Vector Layer"
+msgstr "Векторний шар"

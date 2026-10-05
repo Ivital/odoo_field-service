@@ -74,3 +74,27 @@ msgstr "Розмір"
 #: model_terms:ir.ui.view,arch_db:fieldservice_size.fsm_location_form_view_inherit_size
 msgid "Sizes"
 msgstr "Розміри"
+
+#. module: fieldservice_size
+#: model:ir.model.fields,field_description:fieldservice_size.field_fsm_location_size__write_uid
+#: model:ir.model.fields,field_description:fieldservice_size.field_fsm_size__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: fieldservice_size
+#: model:ir.model.fields,field_description:fieldservice_size.field_fsm_location_size__write_date
+#: model:ir.model.fields,field_description:fieldservice_size.field_fsm_size__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: fieldservice_size
+#: model:ir.model.fields,field_description:fieldservice_size.field_fsm_location__location_size_ids
+msgid "Location Sizes"
+msgstr "Розміри місць"
+
+#. module: fieldservice_size
+#: model:ir.model.fields,field_description:fieldservice_size.field_fsm_location_size__uom_id
+#: model:ir.model.fields,field_description:fieldservice_size.field_fsm_order__size_uom
+#: model:ir.model.fields,field_description:fieldservice_size.field_fsm_size__uom_id
+msgid "Unit of Measure"
+msgstr "Одиниця вимірювання"

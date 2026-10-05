@@ -65,3 +65,25 @@ msgstr "Навички"
 #: model_terms:ir.ui.view,arch_db:fieldservice_skill.view_fsm_person_skill_pivot
 msgid "Worker Skills"
 msgstr "Навички працівників"
+
+#. module: fieldservice_skill
+#: model:ir.model.fields,field_description:fieldservice_skill.field_fsm_person_skill__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: fieldservice_skill
+#: model:ir.model.fields,field_description:fieldservice_skill.field_fsm_person_skill__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: fieldservice_skill
+#: model:ir.model.fields,field_description:fieldservice_skill.field_fsm_category__skill_ids
+#: model:ir.model.fields,field_description:fieldservice_skill.field_fsm_order__skill_ids
+#: model:ir.model.fields,field_description:fieldservice_skill.field_fsm_template__skill_ids
+msgid "Required Skills"
+msgstr "Потрібні навички"
+
+#. module: fieldservice_skill
+#: model:ir.model.fields,field_description:fieldservice_skill.field_fsm_order__skill_worker_ids
+msgid "Skill Worker"
+msgstr "Навичка працівника"

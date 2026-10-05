@@ -22,3 +22,33 @@ msgstr "Кількість замовлень FSM"
 #: model:ir.model.fields,field_description:fieldservice_crm.field_fsm_order__opportunity_id
 msgid "Opportunity"
 msgstr "Можливість"
+
+#. module: fieldservice_crm
+#: model:ir.model.fields,field_description:fieldservice_crm.field_fsm_location__opportunity_count
+msgid "# Opportunities"
+msgstr "Кількість можливостей"
+
+#. module: fieldservice_crm
+#: model_terms:ir.ui.view,arch_db:fieldservice_crm.fieldservice_crm_form_view
+msgid "Create FSM Order"
+msgstr "Створити замовлення FSM"
+
+#. module: fieldservice_crm
+#: model_terms:ir.ui.view,arch_db:fieldservice_crm.fieldservice_crm_form_view
+msgid "FS Orders"
+msgstr "Замовлення FS"
+
+#. module: fieldservice_crm
+#: model:ir.model.fields,field_description:fieldservice_crm.field_crm_lead__fsm_location_id
+msgid "FSM Location"
+msgstr "Місце FSM"
+
+#. module: fieldservice_crm
+#: model_terms:ir.ui.view,arch_db:fieldservice_crm.fsm_location_crm_form_view
+msgid "Opportunities"
+msgstr "Нагоди"
+
+#. module: fieldservice_crm
+#: model:ir.model.fields,field_description:fieldservice_crm.field_crm_lead__fsm_order_ids
+msgid "Service Orders"
+msgstr "Замовлення на обслуговування"

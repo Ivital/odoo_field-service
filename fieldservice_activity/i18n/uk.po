@@ -80,3 +80,40 @@ msgstr "Стан"
 #: model:ir.model.fields.selection,name:fieldservice_activity.selection__fsm_activity__state__todo
 msgid "To Do"
 msgstr "Зробити"
+
+#. module: fieldservice_activity
+#: model_terms:ir.ui.view,arch_db:fieldservice_activity.view_fsm_order_form_add_activity
+#: model_terms:ir.ui.view,arch_db:fieldservice_activity.view_fsm_template_form_add_activity
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. module: fieldservice_activity
+#: model_terms:ir.ui.view,arch_db:fieldservice_activity.view_fsm_order_form_add_activity
+#: model_terms:ir.ui.view,arch_db:fieldservice_activity.view_fsm_template_form_add_activity
+msgid "Complete"
+msgstr "Завершено"
+
+#. module: fieldservice_activity
+#: model:ir.model.fields,field_description:fieldservice_activity.field_fsm_activity__completed_by
+msgid "Completed By"
+msgstr "Завершено ким"
+
+#. module: fieldservice_activity
+#: model:ir.model.fields,field_description:fieldservice_activity.field_fsm_activity__completed_on
+msgid "Completed On"
+msgstr "Завершено"
+
+#. module: fieldservice_activity
+#: model:ir.model.fields,field_description:fieldservice_activity.field_fsm_activity__fsm_template_id
+msgid "FSM Template"
+msgstr "Шаблон FSM"
+
+#. module: fieldservice_activity
+#: model:ir.model.fields,field_description:fieldservice_activity.field_fsm_activity__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: fieldservice_activity
+#: model:ir.model.fields,field_description:fieldservice_activity.field_fsm_activity__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"

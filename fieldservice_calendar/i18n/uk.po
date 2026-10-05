@@ -22,3 +22,8 @@ msgstr "Зустріч"
 #: model:ir.model.fields,field_description:fieldservice_calendar.field_calendar_event__fsm_order_id
 msgid "Order id"
 msgstr "ID замовлення"
+
+#. module: fieldservice_calendar
+#: model:ir.model.fields,field_description:fieldservice_calendar.field_fsm_team__calendar_user_id
+msgid "Team's calendar"
+msgstr "Календар команди"
